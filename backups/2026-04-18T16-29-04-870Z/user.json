@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cmo4cja3l00129lio5u8k6wb9",
+    "email": "ramesh@example.com",
+    "password": "123456",
+    "role": "FARMER",
+    "phone": "9988776655",
+    "profileImage": null,
+    "createdAt": "2026-04-18T15:27:50.278Z",
+    "updatedAt": "2026-04-18T15:27:50.278Z",
+    "status": "active",
+    "name": {
+      "en": "Ramesh Bhai",
+      "gu": "Ramesh Bhai",
+      "hi": "Ramesh Bhai"
+    },
+    "customer": null,
+    "farmer": {
+      "id": "cmo4cja3v00149liosr6hqk1y",
+      "userId": "cmo4cja3l00129lio5u8k6wb9",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Natural farmer from Gujarat.",
+        "gu": "",
+        "hi": ""
+      }
+    }
+  },
+  {
+    "id": "cmnsktb2t00069l900z1v6tmn",
+    "email": "abc@gmail.com",
+    "password": "$2a$10$oZvcwJz9foiZ2IcNN0RMIekbFVU8wh1Poc9c8sTu6mndIjXKKfIVm",
+    "role": "CUSTOMER",
+    "phone": "7485964152",
+    "profileImage": null,
+    "createdAt": "2026-04-18T15:27:50.287Z",
+    "updatedAt": "2026-04-18T15:27:50.287Z",
+    "status": "active",
+    "name": {
+      "en": "Bhavatik",
+      "gu": " ભાવિક",
+      "hi": "भवटिक"
+    },
+    "customer": {
+      "id": "cmnsktc2i00089l902gvve4wp",
+      "userId": "cmnsktb2t00069l900z1v6tmn"
+    },
+    "farmer": null
+  },
+  {
+    "id": "cmnsn6z3b00009lngiamnvuek",
+    "email": "admin@prakrushi.com",
+    "password": "$2a$10$g58S/p.Gk69UCPdMnmMc.Oye/r8AvwXe5J5oQNJUcMywoUQWopdwW",
+    "role": "ADMIN",
+    "phone": null,
+    "profileImage": null,
+    "createdAt": "2026-04-18T15:27:50.288Z",
+    "updatedAt": "2026-04-18T15:27:50.288Z",
+    "status": "active",
+    "name": {
+      "en": "Prakrushi Admin",
+      "gu": "પ્રકૃતિ એડમિન",
+      "hi": "प्रकृति एडमिन"
+    },
+    "customer": null,
+    "farmer": null
+  },
+  {
+    "id": "cmnsn774a000q9l9093k3zqhm",
+    "email": "rahul.kumar@gmail.com",
+    "password": "123456",
+    "role": "FARMER",
+    "phone": "9685746352",
+    "profileImage": null,
+    "createdAt": "2026-04-18T15:27:50.290Z",
+    "updatedAt": "2026-04-18T15:27:50.290Z",
+    "status": "active",
+    "name": {
+      "en": "Rahul Kumar",
+      "gu": "રાહુલ કુમાર",
+      "hi": "राहुल कुमार"
+    },
+    "customer": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      }
+    }
+  },
+  {
+    "id": "cmntzym2h000b9llsumcxopmg",
+    "email": "user_9930252182@prakrushi.com",
+    "password": "",
+    "role": "CUSTOMER",
+    "phone": "9930252182",
+    "profileImage": null,
+    "createdAt": "2026-04-18T15:27:50.291Z",
+    "updatedAt": "2026-04-18T15:27:50.291Z",
+    "status": "active",
+    "name": {
+      "en": "New Customer",
+      "gu": "નવો ગ્રાહક",
+      "hi": "नया ग्राहक"
+    },
+    "customer": {
+      "id": "cmnws9ioi001e9leons7sx22j",
+      "userId": "cmntzym2h000b9llsumcxopmg"
+    },
+    "farmer": null
+  },
+  {
+    "id": "cmnu4fr7b000x9llsikpmtlnf",
+    "email": "rajesh.varma@greenacres.in",
+    "password": "123456",
+    "role": "FARMER",
+    "phone": "98765 43210",
+    "profileImage": null,
+    "createdAt": "2026-04-18T15:27:50.293Z",
+    "updatedAt": "2026-04-18T15:27:50.293Z",
+    "status": "active",
+    "name": {
+      "en": "Rajesh Varma",
+      "gu": "રાજેશ વર્મા",
+      "hi": "राजेश वर्मा"
+    },
+    "customer": null,
+    "farmer": {
+      "id": "cmnu4fr7q000z9llsaafeoq8f",
+      "userId": "cmnu4fr7b000x9llsikpmtlnf",
+      "landSize": 15.5,
+      "farmDetails": {
+        "en": "Our farm specializes in organic vegetable cultivation using sustainable drip irrigation methods. We focus on seasonal crops like tomatoes, bell peppers, and leafy greens, ensuring zero pesticide use for high-quality fresh produce",
+        "gu": "\r\nઅમારું ફાર્મ ટકાઉ ટપક સિંચાઈ પદ્ધતિઓનો ઉપયોગ કરીને ઓર્ગેનિક શાકભાજીની ખેતીમાં નિષ્ણાત છે. અમે ટામેટાં, સિમલા મરચાં અને પાંદડાવાળા લીલા શાકભાજી જેવા મોસમી પાક પર ધ્યાન કેન્દ્રિત કરીએ છીએ, ઉચ્ચ ગુણવત્તાવાળા તાજા ઉત્પાદન માટે શૂન્ય જંતુનાશકોનો ઉપયોગ સુનિશ્ચિત કરીએ છીએ",
+        "hi": "\r\nहमारा फार्म टिकाऊ ड्रिप सिंचाई विधियों का उपयोग करके जैविक सब्जी की खेती में विशेषज्ञता रखता है। हम टमाटर, शिमला मिर्च और पत्तेदार सब्जियों जैसी मौसमी फसलों पर ध्यान केंद्रित करते हैं, जिससे उच्च गुणवत्ता वाली ताजी उपज के लिए कीटनाशकों का बिल्कुल भी उपयोग न हो।"
+      }
+    }
+  },
+  {
+    "id": "cmntxor2300019lv4nramdskr",
+    "email": "nimaxeeradadiya01@gmail.com",
+    "password": "",
+    "role": "CUSTOMER",
+    "phone": "9824878118",
+    "profileImage": null,
+    "createdAt": "2026-04-18T15:27:50.294Z",
+    "updatedAt": "2026-04-18T15:27:50.294Z",
+    "status": "active",
+    "name": {
+      "en": "Nimaxee Radadiya",
+      "gu": "નવો ગ્રાહક",
+      "hi": "नया ग्राहक"
+    },
+    "customer": {
+      "id": "cmnwqt83o000y9leowmw4x8r6",
+      "userId": "cmntxor2300019lv4nramdskr"
+    },
+    "farmer": null
+  },
+  {
+    "id": "cmo4iw0vu0005myjk0qsfwv59",
+    "email": "user_8320708895@prakrushi.com",
+    "password": "",
+    "role": "CUSTOMER",
+    "phone": "8320708895",
+    "profileImage": null,
+    "createdAt": "2026-04-18T15:59:38.107Z",
+    "updatedAt": "2026-04-18T15:59:38.107Z",
+    "status": "active",
+    "name": {
+      "en": "New Customer",
+      "gu": "નવો ગ્રાહક",
+      "hi": "नया ग्राहक"
+    },
+    "customer": null,
+    "farmer": null
+  }
+]

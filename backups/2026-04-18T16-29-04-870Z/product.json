@@ -1,0 +1,3186 @@
+[
+  {
+    "id": "cmnu5bp7h00129lb0ulchcq8d",
+    "slug": "pomegranate-533083",
+    "price": 180,
+    "compareAtPrice": 200,
+    "costPerItem": null,
+    "sku": "asdvsa",
+    "barcode": "74125896369258",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnstdn2j000c9lnkh954trqy",
+    "vendorId": null,
+    "farmerId": "cmnu4fr7q000z9llsaafeoq8f",
+    "createdAt": "2026-04-18T15:27:50.362Z",
+    "updatedAt": "2026-04-18T15:27:50.362Z",
+    "tags": "pomegranate, fresh, fruits, healthy, juicy",
+    "name": {
+      "en": "pomegranate",
+      "gu": "",
+      "hi": ""
+    },
+    "shortDesc": {
+      "en": "<p>asdvav</p>",
+      "gu": "",
+      "hi": ""
+    },
+    "description": {
+      "en": "<p>sadvasdv</p>",
+      "gu": "",
+      "hi": ""
+    },
+    "isRecommendation": true,
+    "metaDescription": {
+      "en": "sdvzsdv",
+      "gu": "",
+      "hi": ""
+    },
+    "metaTitle": {
+      "en": "asdvsdv",
+      "gu": "",
+      "hi": ""
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnstdn2j000c9lnkh954trqy",
+      "slug": "fruits",
+      "image": "/uploads/categories/1775890337623-quon4vqgcsggblkb6nak.webp",
+      "createdAt": "2026-04-18T15:27:50.304Z",
+      "updatedAt": "2026-04-18T15:27:50.304Z",
+      "name": {
+        "en": "Fruits",
+        "gu": "ફળો",
+        "hi": "फल"
+      },
+      "description": {
+        "en": "Fresh, seasonal, and organic fruits sourced directly from local farms. Packed with essential vitamins and natural sweetness.",
+        "gu": "સીધા સ્થાનિક ખેતરોમાંથી મેળવેલા તાજા, મોસમી અને જૈવિક ફળો. આવશ્યક વિટામિન અને કુદરતી મીઠાશથી ભરપૂર.",
+        "hi": "ताजे, मौसमी और जैविक फल सीधे स्थानीय खेतों से प्राप्त। आवश्यक विटामिन और प्राकृतिक मिठास से भरपूर।"
+      },
+      "icon": "/uploads/categories/icon-1775886823088-fruits.gif",
+      "displayImage": "/uploads/categories/display-1776053317364-GeneratedImageApril112026-1240PM1.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnu4fr7q000z9llsaafeoq8f",
+      "userId": "cmnu4fr7b000x9llsikpmtlnf",
+      "landSize": 15.5,
+      "farmDetails": {
+        "en": "Our farm specializes in organic vegetable cultivation using sustainable drip irrigation methods. We focus on seasonal crops like tomatoes, bell peppers, and leafy greens, ensuring zero pesticide use for high-quality fresh produce",
+        "gu": "\r\nઅમારું ફાર્મ ટકાઉ ટપક સિંચાઈ પદ્ધતિઓનો ઉપયોગ કરીને ઓર્ગેનિક શાકભાજીની ખેતીમાં નિષ્ણાત છે. અમે ટામેટાં, સિમલા મરચાં અને પાંદડાવાળા લીલા શાકભાજી જેવા મોસમી પાક પર ધ્યાન કેન્દ્રિત કરીએ છીએ, ઉચ્ચ ગુણવત્તાવાળા તાજા ઉત્પાદન માટે શૂન્ય જંતુનાશકોનો ઉપયોગ સુનિશ્ચિત કરીએ છીએ",
+        "hi": "\r\nहमारा फार्म टिकाऊ ड्रिप सिंचाई विधियों का उपयोग करके जैविक सब्जी की खेती में विशेषज्ञता रखता है। हम टमाटर, शिमला मिर्च और पत्तेदार सब्जियों जैसी मौसमी फसलों पर ध्यान केंद्रित करते हैं, जिससे उच्च गुणवत्ता वाली ताजी उपज के लिए कीटनाशकों का बिल्कुल भी उपयोग न हो।"
+      },
+      "user": {
+        "id": "cmnu4fr7b000x9llsikpmtlnf",
+        "email": "rajesh.varma@greenacres.in",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "98765 43210",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.293Z",
+        "updatedAt": "2026-04-18T15:27:50.293Z",
+        "status": "active",
+        "name": {
+          "en": "Rajesh Varma",
+          "gu": "રાજેશ વર્મા",
+          "hi": "राजेश वर्मा"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmny6usk5001c9l84d0qtlaod",
+        "url": "/uploads/products/1776077387257-Generated-Image-April-11,-2026---11_02AM.webp",
+        "productId": "cmnu5bp7h00129lb0ulchcq8d",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.548Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmnu5bp7h00139lb02ch6boxd",
+        "productId": "cmnu5bp7h00129lb0ulchcq8d",
+        "title": "1kg",
+        "sku": "ASDVSA-1KG",
+        "barcode": null,
+        "price": 180,
+        "compareAtPrice": 200,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 10,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.443Z",
+        "updatedAt": "2026-04-18T15:27:50.443Z"
+      }
+    ],
+    "inventoryItems": [],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmnsl5zgb000f9l90kqbaypye",
+    "slug": "onion",
+    "price": 30,
+    "compareAtPrice": 50,
+    "costPerItem": null,
+    "sku": "ONION-001",
+    "barcode": "8901234567890",
+    "weight": 1,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnsi4zdh000q9lc4l48bhlo6",
+    "vendorId": "cmnsiok3u001i9lfwcfh4q3os",
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.368Z",
+    "updatedAt": "2026-04-18T15:27:50.368Z",
+    "tags": "fresh, organic, onion, vegetables",
+    "name": {
+      "en": "onion",
+      "gu": "ડુંગળી",
+      "hi": "प्याज़"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-grown&nbsp;onions&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers.&nbsp;Naturally&nbsp;grown&nbsp;and&nbsp;chemical-free.</p>",
+      "gu": "<p>ખેતરેથી&nbsp;સીધી&nbsp;લાવવામાં&nbsp;આવેલી&nbsp;તાજી&nbsp;ડુંગળી.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી&nbsp;અને&nbsp;કેમિકલ&nbsp;મુક્ત.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;लाया&nbsp;गया&nbsp;प्याज़,&nbsp;सीधे&nbsp;किसानों&nbsp;से&nbsp;प्राप्त।&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाया&nbsp;गया&nbsp;और&nbsp;केमिकल&nbsp;मुक्त।</p>"
+    },
+    "description": {
+      "en": "<p>Our&nbsp;fresh&nbsp;onions&nbsp;are&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers&nbsp;in&nbsp;Gujarat.&nbsp;</p><p>These&nbsp;onions&nbsp;are&nbsp;naturally&nbsp;grown&nbsp;without&nbsp;harmful&nbsp;chemicals.</p><p></p><p>Benefits:</p><p>•&nbsp;Fresh&nbsp;&amp;&nbsp;Natural</p><p>•&nbsp;Direct&nbsp;from&nbsp;farms</p><p>•&nbsp;Long&nbsp;shelf&nbsp;life</p><p>•&nbsp;Rich&nbsp;in&nbsp;flavor</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;a&nbsp;cool&nbsp;and&nbsp;dry&nbsp;place.</p>",
+      "gu": "<p>અમારી&nbsp;તાજી&nbsp;ડુંગળી&nbsp;ગુજરાતના&nbsp;સ્થાનિક&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;સીધી&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે.</p><p>પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી&nbsp;અને&nbsp;રોજિંદા&nbsp;ઉપયોગ&nbsp;માટે&nbsp;ઉત્તમ.</p><p></p><p>ફાયદા:</p><p>•&nbsp;તાજી&nbsp;અને&nbsp;પ્રાકૃતિક</p><p>•&nbsp;સીધી&nbsp;ખેતરેથી</p><p>•&nbsp;લાંબા&nbsp;સમય&nbsp;સુધી&nbsp;ટકી&nbsp;રહે</p><p>•&nbsp;સ્વાદિષ્ટ&nbsp;અને&nbsp;ગુણવત્તાયુક્ત</p><p></p><p>સ્ટોરેજ:</p><p>ઠંડી&nbsp;અને&nbsp;સૂકી&nbsp;જગ્યાએ&nbsp;રાખો.</p>",
+      "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;प्याज़&nbsp;गुजरात&nbsp;के&nbsp;स्थानीय&nbsp;किसानों&nbsp;से&nbsp;सीधे&nbsp;लाए&nbsp;जाते&nbsp;हैं।</p><p>प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए&nbsp;और&nbsp;रोज़मर्रा&nbsp;के&nbsp;उपयोग&nbsp;के&nbsp;लिए&nbsp;उत्तम।</p><p></p><p>फायदे:</p><p>•&nbsp;ताज़ा&nbsp;और&nbsp;प्राकृतिक</p><p>•&nbsp;सीधे&nbsp;खेतों&nbsp;से</p><p>•&nbsp;लंबे&nbsp;समय&nbsp;तक&nbsp;सुरक्षित</p><p>•&nbsp;स्वाद&nbsp;में&nbsp;बेहतरीन</p><p></p><p>स्टोरेज:</p><p>ठंडी&nbsp;और&nbsp;सूखी&nbsp;जगह&nbsp;पर&nbsp;रखें।</p>"
+    },
+    "isRecommendation": false,
+    "metaDescription": {
+      "en": "Buy fresh farm-grown onions online. Natural, chemical-free vegetables delivered to your home.",
+      "gu": "તાજી ખેતરેથી લાવવામાં આવેલી ડુંગળી ઓનલાઇન ખરીદો. પ્રાકૃતિક અને કેમિકલ મુક્ત શાકભાજી ઘરે ડિલિવરી.",
+      "hi": "ताज़ा खेतों से लाया गया प्याज़ ऑनलाइन खरीदें। प्राकृतिक और केमिकल मुक्त सब्ज़ियां घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Onion - Natural Farm Vegetables",
+      "gu": "તાજી ડુંગળી – પ્રાકૃતિક ખેતરની શાકભાજી",
+      "hi": "ताज़ा प्याज़ – प्राकृतिक खेत की सब्ज़ियां"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnsi4zdh000q9lc4l48bhlo6",
+      "slug": "natural-vegetables",
+      "image": "/uploads/categories/1776149559940-cfwrqetynm7umt0dx21r.webp",
+      "createdAt": "2026-04-18T15:27:50.302Z",
+      "updatedAt": "2026-04-18T15:27:50.302Z",
+      "name": {
+        "en": "Natural Vegetables",
+        "gu": "કુદરતી શાકભાજી",
+        "hi": "प्राकृतिक सब्जियां"
+      },
+      "description": {
+        "en": "Fresh category for all natural and raw vegetables.",
+        "gu": "તમામ કુદરતી અને કાચા શાકભાજી માટેની તાજી કેટેગરી.",
+        "hi": "ताज़ी और प्राकृतिक सब्जियों की श्रेणी।"
+      },
+      "icon": "/uploads/categories/icon-1775886832562-basket.gif",
+      "displayImage": "/uploads/categories/display-1776053308364-GeneratedImageApril112026-1240PM.webp"
+    },
+    "vendor": {
+      "id": "cmnsiok3u001i9lfwcfh4q3os",
+      "email": "seller@example.com",
+      "password": "$2a$10$ekrD0EVYLxlvdka.X0K/lelUtm/IwAGU/nYROSHL5aiPZO2bpSPrS",
+      "phone": "\t9876543210",
+      "profileImage": null,
+      "logo": null,
+      "commissionRate": 5.5,
+      "createdAt": "2026-04-18T15:27:50.336Z",
+      "updatedAt": "2026-04-18T15:27:50.336Z",
+      "businessSlug": "\tnatural-farms-llc",
+      "name": {
+        "en": "\tRamesh Patel",
+        "gu": "રમેશ પટેલ",
+        "hi": " रमेश पटेल"
+      },
+      "businessName": {
+        "en": "Natural Farms LLC",
+        "gu": "નેચરલ ફાર્મ્સ એલએલસી",
+        "hi": "प्राकृतिक फार्म एलएलसी"
+      },
+      "description": {
+        "en": "High quality natural vegetable supplier.",
+        "gu": "ઉચ્ચ ગુણવત્તાવાળા કુદરતી શાકભાજી સપ્લાયર.",
+        "hi": "उच्च गुणवत्ता वाली प्राकृतिक सब्जियों का आपूर्तिकर्ता।"
+      },
+      "serviceArea": {
+        "en": "Ahemdabad",
+        "gu": " અમદાવાદ",
+        "hi": "अहमदाबाद"
+      },
+      "status": "active"
+    },
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmnygghua000v9l04n6jqzz47",
+        "url": "/uploads/products/1776161097268-Generated-Image-April-10,-2026---3_06PM-(1).webp",
+        "productId": "cmnsl5zgb000f9l90kqbaypye",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.551Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmnspxkzv000v9ld8yklv4r8z",
+        "productId": "cmnsl5zgb000f9l90kqbaypye",
+        "title": "500g",
+        "sku": "ONION-001-500G",
+        "barcode": null,
+        "price": 15,
+        "compareAtPrice": 20,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 20,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.492Z",
+        "updatedAt": "2026-04-18T15:27:50.492Z"
+      },
+      {
+        "id": "cmnspxkzv000w9ld802ix3521",
+        "productId": "cmnsl5zgb000f9l90kqbaypye",
+        "title": "1kg",
+        "sku": "ONION-001-1KG",
+        "barcode": null,
+        "price": 30,
+        "compareAtPrice": 40,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.493Z",
+        "updatedAt": "2026-04-18T15:27:50.493Z"
+      },
+      {
+        "id": "cmnspxkzv000x9ld8rqld1hlg",
+        "productId": "cmnsl5zgb000f9l90kqbaypye",
+        "title": "2kg",
+        "sku": "ONION-001-2KG",
+        "barcode": null,
+        "price": 60,
+        "compareAtPrice": 70,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 30,
+        "options": {
+          "weight": "2kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.495Z",
+        "updatedAt": "2026-04-18T15:27:50.495Z"
+      }
+    ],
+    "inventoryItems": [
+      {
+        "id": "cmnt52kll0003v41o1bpkzll4",
+        "productId": "cmnsl5zgb000f9l90kqbaypye",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 20,
+        "updatedAt": "2026-04-18T15:27:50.569Z",
+        "variantId": "cmnspxkzv000v9ld8yklv4r8z",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnt52myo0005v41o6662ebe6",
+        "productId": "cmnsl5zgb000f9l90kqbaypye",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 15,
+        "updatedAt": "2026-04-18T15:27:50.570Z",
+        "variantId": "cmnspxkzv000w9ld802ix3521",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnt52peb0007v41opami5spm",
+        "productId": "cmnsl5zgb000f9l90kqbaypye",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 30,
+        "updatedAt": "2026-04-18T15:27:50.572Z",
+        "variantId": "cmnspxkzv000x9ld8rqld1hlg",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnsq5z1h000f9ly0yyfi2h7w",
+        "productId": "cmnsl5zgb000f9l90kqbaypye",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 30,
+        "updatedAt": "2026-04-18T15:27:50.593Z",
+        "variantId": null,
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      }
+    ],
+    "offers": [],
+    "reviews": [
+      {
+        "id": "cmntzk7nx00039llsolzgnitw",
+        "rating": 5,
+        "authorId": "cmnsktb2t00069l900z1v6tmn",
+        "productId": "cmnsl5zgb000f9l90kqbaypye",
+        "vendorId": null,
+        "farmerId": null,
+        "createdAt": "2026-04-18T15:27:50.560Z",
+        "comment": {
+          "en": "This is an excellent product! Highly recommended."
+        },
+        "status": "APPROVED",
+        "author": {
+          "id": "cmnsktb2t00069l900z1v6tmn",
+          "email": "abc@gmail.com",
+          "password": "$2a$10$oZvcwJz9foiZ2IcNN0RMIekbFVU8wh1Poc9c8sTu6mndIjXKKfIVm",
+          "role": "CUSTOMER",
+          "phone": "7485964152",
+          "profileImage": null,
+          "createdAt": "2026-04-18T15:27:50.287Z",
+          "updatedAt": "2026-04-18T15:27:50.287Z",
+          "status": "active",
+          "name": {
+            "en": "Bhavatik",
+            "gu": " ભાવિક",
+            "hi": "भवटिक"
+          }
+        }
+      },
+      {
+        "id": "cmntzpnjz00059llsf28lsph8",
+        "rating": 5,
+        "authorId": "cmnsktb2t00069l900z1v6tmn",
+        "productId": "cmnsl5zgb000f9l90kqbaypye",
+        "vendorId": null,
+        "farmerId": null,
+        "createdAt": "2026-04-18T15:27:50.562Z",
+        "comment": {
+          "en": "This is an excellent product! Highly recommended."
+        },
+        "status": "PENDING",
+        "author": {
+          "id": "cmnsktb2t00069l900z1v6tmn",
+          "email": "abc@gmail.com",
+          "password": "$2a$10$oZvcwJz9foiZ2IcNN0RMIekbFVU8wh1Poc9c8sTu6mndIjXKKfIVm",
+          "role": "CUSTOMER",
+          "phone": "7485964152",
+          "profileImage": null,
+          "createdAt": "2026-04-18T15:27:50.287Z",
+          "updatedAt": "2026-04-18T15:27:50.287Z",
+          "status": "active",
+          "name": {
+            "en": "Bhavatik",
+            "gu": " ભાવિક",
+            "hi": "भवटिक"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "cmnspq1oh000l9ld8bykc5gh9",
+    "slug": "spinach",
+    "price": 40,
+    "compareAtPrice": 50,
+    "costPerItem": null,
+    "sku": "SPINACH-001",
+    "barcode": "8901234567101",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnsi4zdh000q9lc4l48bhlo6",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.372Z",
+    "updatedAt": "2026-04-18T15:27:50.372Z",
+    "tags": "spinach, palak, leafy vegetables, fresh, natural",
+    "name": {
+      "en": "spinach",
+      "gu": "પાલક",
+      "hi": "पालक"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-grown&nbsp;spinach&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers.&nbsp;Naturally&nbsp;grown&nbsp;and&nbsp;chemical-free&nbsp;leafy&nbsp;vegetables.</p>",
+      "gu": "<p>ખેતરેથી&nbsp;સીધું&nbsp;લાવવામાં&nbsp;આવેલું&nbsp;તાજું&nbsp;પાલક.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલું&nbsp;અને&nbsp;કેમિકલ&nbsp;મુક્ત.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;लाया&nbsp;गया&nbsp;पालक,&nbsp;सीधे&nbsp;किसानों&nbsp;से&nbsp;प्राप्त।&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाया&nbsp;गया&nbsp;और&nbsp;केमिकल&nbsp;मुक्त।</p>"
+    },
+    "description": {
+      "en": "<p>Fresh&nbsp;spinach&nbsp;(Palak)&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers&nbsp;in&nbsp;Gujarat.&nbsp;</p><p>Naturally&nbsp;grown&nbsp;and&nbsp;rich&nbsp;in&nbsp;nutrients,&nbsp;perfect&nbsp;for&nbsp;healthy&nbsp;cooking.</p><p></p><p>Benefits:</p><p>•&nbsp;Rich&nbsp;in&nbsp;Iron</p><p>•&nbsp;Fresh&nbsp;&amp;&nbsp;Natural</p><p>•&nbsp;Direct&nbsp;from&nbsp;farms</p><p>•&nbsp;Chemical-free</p><p></p><p>Storage:</p><p>Refrigerate&nbsp;and&nbsp;use&nbsp;within&nbsp;2-3&nbsp;days&nbsp;for&nbsp;best&nbsp;freshness.</p>",
+      "gu": "<p>અમારું&nbsp;તાજું&nbsp;પાલક&nbsp;ગુજરાતના&nbsp;સ્થાનિક&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;સીધું&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે.</p><p>પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલું&nbsp;અને&nbsp;પોષક&nbsp;તત્વોથી&nbsp;ભરપૂર.</p><p></p><p>ફાયદા:</p><p>•&nbsp;આયર્નથી&nbsp;ભરપૂર</p><p>•&nbsp;તાજું&nbsp;અને&nbsp;પ્રાકૃતિક</p><p>•&nbsp;સીધું&nbsp;ખેતરેથી</p><p>•&nbsp;કેમિકલ&nbsp;મુક્ત</p><p></p><p>સ્ટોરેજ:</p><p>ફ્રિજમાં&nbsp;રાખો&nbsp;અને&nbsp;2-3&nbsp;દિવસમાં&nbsp;ઉપયોગ&nbsp;કરો.</p>",
+      "hi": "<p>हमारा&nbsp;ताज़ा&nbsp;पालक&nbsp;गुजरात&nbsp;के&nbsp;स्थानीय&nbsp;किसानों&nbsp;से&nbsp;सीधे&nbsp;लाया&nbsp;जाता&nbsp;है।</p><p>प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाया&nbsp;गया&nbsp;और&nbsp;पौष्टिक&nbsp;तत्वों&nbsp;से&nbsp;भरपूर।</p><p></p><p>फायदे:</p><p>•&nbsp;आयरन&nbsp;से&nbsp;भरपूर</p><p>•&nbsp;ताज़ा&nbsp;और&nbsp;प्राकृतिक</p><p>•&nbsp;सीधे&nbsp;खेतों&nbsp;से</p><p>•&nbsp;केमिकल&nbsp;मुक्त</p><p></p><p>स्टोरेज:</p><p>रेफ्रिजरेटर&nbsp;में&nbsp;रखें&nbsp;और&nbsp;2-3&nbsp;दिनों&nbsp;के&nbsp;भीतर&nbsp;उपयोग&nbsp;करें।</p>"
+    },
+    "isRecommendation": false,
+    "metaDescription": {
+      "en": "Buy fresh farm-grown spinach online. Natural, chemical-free leafy vegetables delivered to your home.",
+      "gu": "તાજું ખેતરેથી લાવવામાં આવેલું પાલક ઓનલાઇન ખરીદો. પ્રાકૃતિક અને કેમિકલ મુક્ત લીલી શાકભાજી ઘરે ડિલિવરી.",
+      "hi": "ताज़ा खेतों से लाया गया पालक ऑनलाइन खरीदें। प्राकृतिक और केमिकल मुक्त हरी सब्ज़ियां घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Spinach (Palak) – Natural Farm Vegetables",
+      "gu": "તાજું પાલક – પ્રાકૃતિક ખેતરની શાકભાજી",
+      "hi": "ताज़ा पालक – प्राकृतिक खेत की सब्ज़ियां"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnsi4zdh000q9lc4l48bhlo6",
+      "slug": "natural-vegetables",
+      "image": "/uploads/categories/1776149559940-cfwrqetynm7umt0dx21r.webp",
+      "createdAt": "2026-04-18T15:27:50.302Z",
+      "updatedAt": "2026-04-18T15:27:50.302Z",
+      "name": {
+        "en": "Natural Vegetables",
+        "gu": "કુદરતી શાકભાજી",
+        "hi": "प्राकृतिक सब्जियां"
+      },
+      "description": {
+        "en": "Fresh category for all natural and raw vegetables.",
+        "gu": "તમામ કુદરતી અને કાચા શાકભાજી માટેની તાજી કેટેગરી.",
+        "hi": "ताज़ी और प्राकृतिक सब्जियों की श्रेणी।"
+      },
+      "icon": "/uploads/categories/icon-1775886832562-basket.gif",
+      "displayImage": "/uploads/categories/display-1776053308364-GeneratedImageApril112026-1240PM.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmnygh6g4000x9l04tfw0huly",
+        "url": "/uploads/products/1776161129169-Generated-Image-April-10,-2026---3_13PM-(1).webp",
+        "productId": "cmnspq1oh000l9ld8bykc5gh9",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.554Z",
+        "altText": null,
+        "offerId": null
+      },
+      {
+        "id": "cmnygh6g4000y9l04lx6cin5e",
+        "url": "/uploads/products/1776161129171-Generated-Image-April-10,-2026---3_33PM.webp",
+        "productId": "cmnspq1oh000l9ld8bykc5gh9",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.555Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmnspq1oh000m9ld8vgzz1vx3",
+        "productId": "cmnspq1oh000l9ld8bykc5gh9",
+        "title": "500g",
+        "sku": "SPINACH-001-500G",
+        "barcode": null,
+        "price": 20,
+        "compareAtPrice": 30,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.502Z",
+        "updatedAt": "2026-04-18T15:27:50.502Z"
+      },
+      {
+        "id": "cmnspq1oi000n9ld8h3i5n4c3",
+        "productId": "cmnspq1oh000l9ld8bykc5gh9",
+        "title": "1kg",
+        "sku": "SPINACH-001-1KG",
+        "barcode": null,
+        "price": 40,
+        "compareAtPrice": 50,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 20,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.503Z",
+        "updatedAt": "2026-04-18T15:27:50.503Z"
+      },
+      {
+        "id": "cmnspq1oi000o9ld8a03lr8qy",
+        "productId": "cmnspq1oh000l9ld8bykc5gh9",
+        "title": "2kg",
+        "sku": "SPINACH-001-2KG",
+        "barcode": null,
+        "price": 80,
+        "compareAtPrice": 90,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "2kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.505Z",
+        "updatedAt": "2026-04-18T15:27:50.505Z"
+      }
+    ],
+    "inventoryItems": [
+      {
+        "id": "cmnt52hvw0001v41ohpzp6wt3",
+        "productId": "cmnspq1oh000l9ld8bykc5gh9",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 15,
+        "updatedAt": "2026-04-18T15:27:50.566Z",
+        "variantId": "cmnspq1oh000m9ld8vgzz1vx3",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnt53qnc000zv41od7q3vqdp",
+        "productId": "cmnspq1oh000l9ld8bykc5gh9",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 20,
+        "updatedAt": "2026-04-18T15:27:50.590Z",
+        "variantId": "cmnspq1oi000n9ld8h3i5n4c3",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnt53uvd0011v41oj6o7btbf",
+        "productId": "cmnspq1oh000l9ld8bykc5gh9",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 15,
+        "updatedAt": "2026-04-18T15:27:50.591Z",
+        "variantId": "cmnspq1oi000o9ld8a03lr8qy",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnsq5ooe00059ly0teuzw6d6",
+        "productId": "cmnspq1oh000l9ld8bykc5gh9",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 30,
+        "updatedAt": "2026-04-18T15:27:50.592Z",
+        "variantId": null,
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      }
+    ],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmnwokscw00009le45jd5bi8h",
+    "slug": "fresh-green-peas",
+    "price": 1.8,
+    "compareAtPrice": 2.2,
+    "costPerItem": null,
+    "sku": "PEAS-GREEN-001",
+    "barcode": "9876543210123",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnsi4zdh000q9lc4l48bhlo6",
+    "vendorId": null,
+    "farmerId": "cmnu4fr7q000z9llsaafeoq8f",
+    "createdAt": "2026-04-18T15:27:50.375Z",
+    "updatedAt": "2026-04-18T15:27:50.375Z",
+    "tags": "peas, green peas, vegetables, fresh, organic",
+    "name": {
+      "en": "Fresh Green Peas",
+      "gu": "",
+      "hi": ""
+    },
+    "shortDesc": {
+      "en": "<p>Sweet,&nbsp;tender,&nbsp;and&nbsp;freshly&nbsp;harvested&nbsp;green&nbsp;peas.</p>",
+      "gu": "",
+      "hi": ""
+    },
+    "description": {
+      "en": "<p>Fresh&nbsp;green&nbsp;peas&nbsp;picked&nbsp;directly&nbsp;from&nbsp;farms&nbsp;to&nbsp;ensure&nbsp;maximum&nbsp;freshness&nbsp;and&nbsp;flavor.&nbsp;These&nbsp;peas&nbsp;are&nbsp;naturally&nbsp;sweet,&nbsp;rich&nbsp;in&nbsp;protein,&nbsp;fiber,&nbsp;and&nbsp;essential&nbsp;vitamins.&nbsp;Perfect&nbsp;for&nbsp;curries,&nbsp;soups,&nbsp;salads,&nbsp;and&nbsp;side&nbsp;dishes.</p>",
+      "gu": "",
+      "hi": ""
+    },
+    "isRecommendation": false,
+    "metaDescription": {
+      "en": "Get farm-fresh green peas delivered to your home. Healthy, tasty, and perfect for daily cooking.",
+      "gu": "",
+      "hi": ""
+    },
+    "metaTitle": {
+      "en": "Buy Fresh Green Peas Online",
+      "gu": "",
+      "hi": ""
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnsi4zdh000q9lc4l48bhlo6",
+      "slug": "natural-vegetables",
+      "image": "/uploads/categories/1776149559940-cfwrqetynm7umt0dx21r.webp",
+      "createdAt": "2026-04-18T15:27:50.302Z",
+      "updatedAt": "2026-04-18T15:27:50.302Z",
+      "name": {
+        "en": "Natural Vegetables",
+        "gu": "કુદરતી શાકભાજી",
+        "hi": "प्राकृतिक सब्जियां"
+      },
+      "description": {
+        "en": "Fresh category for all natural and raw vegetables.",
+        "gu": "તમામ કુદરતી અને કાચા શાકભાજી માટેની તાજી કેટેગરી.",
+        "hi": "ताज़ी और प्राकृतिक सब्जियों की श्रेणी।"
+      },
+      "icon": "/uploads/categories/icon-1775886832562-basket.gif",
+      "displayImage": "/uploads/categories/display-1776053308364-GeneratedImageApril112026-1240PM.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnu4fr7q000z9llsaafeoq8f",
+      "userId": "cmnu4fr7b000x9llsikpmtlnf",
+      "landSize": 15.5,
+      "farmDetails": {
+        "en": "Our farm specializes in organic vegetable cultivation using sustainable drip irrigation methods. We focus on seasonal crops like tomatoes, bell peppers, and leafy greens, ensuring zero pesticide use for high-quality fresh produce",
+        "gu": "\r\nઅમારું ફાર્મ ટકાઉ ટપક સિંચાઈ પદ્ધતિઓનો ઉપયોગ કરીને ઓર્ગેનિક શાકભાજીની ખેતીમાં નિષ્ણાત છે. અમે ટામેટાં, સિમલા મરચાં અને પાંદડાવાળા લીલા શાકભાજી જેવા મોસમી પાક પર ધ્યાન કેન્દ્રિત કરીએ છીએ, ઉચ્ચ ગુણવત્તાવાળા તાજા ઉત્પાદન માટે શૂન્ય જંતુનાશકોનો ઉપયોગ સુનિશ્ચિત કરીએ છીએ",
+        "hi": "\r\nहमारा फार्म टिकाऊ ड्रिप सिंचाई विधियों का उपयोग करके जैविक सब्जी की खेती में विशेषज्ञता रखता है। हम टमाटर, शिमला मिर्च और पत्तेदार सब्जियों जैसी मौसमी फसलों पर ध्यान केंद्रित करते हैं, जिससे उच्च गुणवत्ता वाली ताजी उपज के लिए कीटनाशकों का बिल्कुल भी उपयोग न हो।"
+      },
+      "user": {
+        "id": "cmnu4fr7b000x9llsikpmtlnf",
+        "email": "rajesh.varma@greenacres.in",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "98765 43210",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.293Z",
+        "updatedAt": "2026-04-18T15:27:50.293Z",
+        "status": "active",
+        "name": {
+          "en": "Rajesh Varma",
+          "gu": "રાજેશ વર્મા",
+          "hi": "राजेश वर्मा"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmny7zywu00019lsokxuqzpc6",
+        "url": "/uploads/products/1776078216289-Generated-Image-April-13,-2026---4_32PM.webp",
+        "productId": "cmnwokscw00009le45jd5bi8h",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.531Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmnwokscx00029le4dfqjmn5i",
+        "productId": "cmnwokscw00009le45jd5bi8h",
+        "title": "500g",
+        "sku": "PEAS-GREEN-001-500G",
+        "barcode": null,
+        "price": 1.8,
+        "compareAtPrice": 2.2,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 0,
+        "options": {
+          "Weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.449Z",
+        "updatedAt": "2026-04-18T15:27:50.449Z"
+      }
+    ],
+    "inventoryItems": [],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmntuste200069lk4wmpkewv3",
+    "slug": "apple",
+    "price": 120,
+    "compareAtPrice": 150,
+    "costPerItem": null,
+    "sku": "APPLE-001",
+    "barcode": "8901234567701",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnstdn2j000c9lnkh954trqy",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.379Z",
+    "updatedAt": "2026-04-18T15:27:50.379Z",
+    "tags": "apple, fresh, fruits, healthy, natural",
+    "name": {
+      "en": "apple",
+      "gu": "સફરજન",
+      "hi": "सेब"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-picked&nbsp;apples&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;trusted&nbsp;farms.&nbsp;Naturally&nbsp;grown,&nbsp;juicy,&nbsp;and&nbsp;full&nbsp;of&nbsp;nutrients.</p>",
+      "gu": "<p>તાજા&nbsp;ખેતરેથી&nbsp;લાવવામાં&nbsp;આવેલા&nbsp;સફરજન.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા,&nbsp;રસદાર&nbsp;અને&nbsp;પોષક&nbsp;તત્વોથી&nbsp;ભરપૂર.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;चुने&nbsp;गए&nbsp;सेब,&nbsp;भरोसेमंद&nbsp;किसानों&nbsp;से&nbsp;प्राप्त।&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए,&nbsp;रसीले&nbsp;और&nbsp;पौष्टिक।</p>"
+    },
+    "description": {
+      "en": "<p>Our&nbsp;fresh&nbsp;apples&nbsp;are&nbsp;carefully&nbsp;selected&nbsp;from&nbsp;trusted&nbsp;farms&nbsp;to&nbsp;ensure&nbsp;premium&nbsp;quality&nbsp;and&nbsp;freshness.&nbsp;</p><p>Naturally&nbsp;grown&nbsp;and&nbsp;perfect&nbsp;for&nbsp;daily&nbsp;consumption.</p><p></p><p>Benefits:</p><p>•&nbsp;Fresh&nbsp;and&nbsp;juicy</p><p>•&nbsp;Rich&nbsp;in&nbsp;fiber&nbsp;and&nbsp;vitamins</p><p>•&nbsp;Naturally&nbsp;grown</p><p>•&nbsp;Perfect&nbsp;for&nbsp;healthy&nbsp;snacking</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;refrigerator&nbsp;for&nbsp;longer&nbsp;freshness.</p>",
+      "gu": "<p>અમારા&nbsp;તાજા&nbsp;સફરજન&nbsp;વિશ્વસનીય&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;પસંદ&nbsp;કરીને&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે&nbsp;જેથી&nbsp;શ્રેષ્ઠ&nbsp;ગુણવત્તા&nbsp;અને&nbsp;તાજગી&nbsp;મળે.</p><p>પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા&nbsp;અને&nbsp;રોજિંદા&nbsp;ખાવા&nbsp;માટે&nbsp;ઉત્તમ.</p><p></p><p>ફાયદા:</p><p>•&nbsp;તાજા&nbsp;અને&nbsp;રસદાર</p><p>•&nbsp;ફાઇબર&nbsp;અને&nbsp;વિટામિનથી&nbsp;ભરપૂર</p><p>•&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા</p><p>•&nbsp;હેલ્ધી&nbsp;નાસ્તા&nbsp;માટે&nbsp;ઉત્તમ</p><p></p><p>સ્ટોરેજ:</p><p>લાંબા&nbsp;સમય&nbsp;સુધી&nbsp;તાજગી&nbsp;માટે&nbsp;ફ્રિજમાં&nbsp;રાખો.</p>",
+      "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;सेब&nbsp;भरोसेमंद&nbsp;किसानों&nbsp;से&nbsp;सावधानीपूर्वक&nbsp;चुने&nbsp;जाते&nbsp;हैं&nbsp;ताकि&nbsp;बेहतरीन&nbsp;गुणवत्ता&nbsp;और&nbsp;ताजगी&nbsp;मिले।</p><p>प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए&nbsp;और&nbsp;रोज़ाना&nbsp;खाने&nbsp;के&nbsp;लिए&nbsp;उपयुक्त।</p><p></p><p>फायदे:</p><p>•&nbsp;ताज़ा&nbsp;और&nbsp;रसीले</p><p>•&nbsp;फाइबर&nbsp;और&nbsp;विटामिन&nbsp;से&nbsp;भरपूर</p><p>•&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए</p><p>•&nbsp;हेल्दी&nbsp;स्नैक&nbsp;के&nbsp;लिए&nbsp;उत्तम</p><p></p><p>स्टोरेज:</p><p>लंबे&nbsp;समय&nbsp;तक&nbsp;ताज़गी&nbsp;के&nbsp;लिए&nbsp;फ्रिज&nbsp;में&nbsp;रखें।</p>"
+    },
+    "isRecommendation": true,
+    "metaDescription": {
+      "en": "Buy fresh apples online. Naturally grown, juicy, and healthy fruits delivered to your home.",
+      "gu": "તાજા અને રસદાર સફરજન ઓનલાઇન ખરીદો. પ્રાકૃતિક અને પોષક તત્વોથી ભરપૂર ફળ ઘરે ડિલિવરી.",
+      "hi": "ताज़ा और रसीले सेब ऑनलाइन खरीदें। प्राकृतिक और पौष्टिक फल घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Apple – Natural Farm Fruits",
+      "gu": "તાજા સફરજન – પ્રાકૃતિક તાજા ફળ",
+      "hi": "ताज़ा सेब – प्राकृतिक ताज़े फल"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnstdn2j000c9lnkh954trqy",
+      "slug": "fruits",
+      "image": "/uploads/categories/1775890337623-quon4vqgcsggblkb6nak.webp",
+      "createdAt": "2026-04-18T15:27:50.304Z",
+      "updatedAt": "2026-04-18T15:27:50.304Z",
+      "name": {
+        "en": "Fruits",
+        "gu": "ફળો",
+        "hi": "फल"
+      },
+      "description": {
+        "en": "Fresh, seasonal, and organic fruits sourced directly from local farms. Packed with essential vitamins and natural sweetness.",
+        "gu": "સીધા સ્થાનિક ખેતરોમાંથી મેળવેલા તાજા, મોસમી અને જૈવિક ફળો. આવશ્યક વિટામિન અને કુદરતી મીઠાશથી ભરપૂર.",
+        "hi": "ताजे, मौसमी और जैविक फल सीधे स्थानीय खेतों से प्राप्त। आवश्यक विटामिन और प्राकृतिक मिठास से भरपूर।"
+      },
+      "icon": "/uploads/categories/icon-1775886823088-fruits.gif",
+      "displayImage": "/uploads/categories/display-1776053317364-GeneratedImageApril112026-1240PM1.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmnx2lut6000w9lt0kzbk4wpc",
+        "url": "/uploads/products/1776077366565-Generated-Image-April-10,-2026---3_18PM-(1).webp",
+        "productId": "cmntuste200069lk4wmpkewv3",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.540Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmntuste200079lk45lbc4g9s",
+        "productId": "cmntuste200069lk4wmpkewv3",
+        "title": "500g",
+        "sku": "APPLE-001-500G",
+        "barcode": null,
+        "price": 60,
+        "compareAtPrice": 80,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.483Z",
+        "updatedAt": "2026-04-18T15:27:50.483Z"
+      },
+      {
+        "id": "cmntuste200089lk477mw5t12",
+        "productId": "cmntuste200069lk4wmpkewv3",
+        "title": "1kg",
+        "sku": "APPLE-001-1KG",
+        "barcode": null,
+        "price": 120,
+        "compareAtPrice": 150,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.488Z",
+        "updatedAt": "2026-04-18T15:27:50.488Z"
+      }
+    ],
+    "inventoryItems": [],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmnsq2x0f00109ld8xes3u988",
+    "slug": "potato",
+    "price": 50,
+    "compareAtPrice": 60,
+    "costPerItem": null,
+    "sku": "POTATO-001",
+    "barcode": "8901234567201",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnsi4zdh000q9lc4l48bhlo6",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.384Z",
+    "updatedAt": "2026-04-18T15:27:50.384Z",
+    "tags": "potato, fresh, vegetables, natural, farm fresh",
+    "name": {
+      "en": "potato",
+      "gu": "બટાકા",
+      "hi": "आलू"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-grown&nbsp;potatoes&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers.&nbsp;Naturally&nbsp;grown&nbsp;and&nbsp;chemical-free.</p>",
+      "gu": "<p>ખેતરેથી&nbsp;સીધા&nbsp;લાવવામાં&nbsp;આવેલા&nbsp;તાજા&nbsp;બટાકા.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા&nbsp;અને&nbsp;કેમિકલ&nbsp;મુક્ત.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;लाए&nbsp;गए&nbsp;आलू,&nbsp;सीधे&nbsp;किसानों&nbsp;से&nbsp;प्राप्त।&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए&nbsp;और&nbsp;केमिकल&nbsp;मुक्त।</p>"
+    },
+    "description": {
+      "en": "<p>Our&nbsp;fresh&nbsp;potatoes&nbsp;are&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers&nbsp;in&nbsp;Gujarat.</p><p>Naturally&nbsp;grown&nbsp;and&nbsp;perfect&nbsp;for&nbsp;daily&nbsp;cooking.</p><p></p><p>Benefits:</p><p>•&nbsp;Fresh&nbsp;&amp;&nbsp;Natural</p><p>•&nbsp;Direct&nbsp;from&nbsp;farms</p><p>•&nbsp;Long&nbsp;shelf&nbsp;life</p><p>•&nbsp;Perfect&nbsp;for&nbsp;daily&nbsp;cooking</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;cool&nbsp;and&nbsp;dry&nbsp;place.&nbsp;Avoid&nbsp;refrigeration.</p>",
+      "gu": "<p>અમારા&nbsp;તાજા&nbsp;બટાકા&nbsp;ગુજરાતના&nbsp;સ્થાનિક&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;સીધા&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે.</p><p>પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા&nbsp;અને&nbsp;રોજિંદા&nbsp;રસોઈ&nbsp;માટે&nbsp;ઉત્તમ.</p><p></p><p>ફાયદા:</p><p>•&nbsp;તાજા&nbsp;અને&nbsp;પ્રાકૃતિક</p><p>•&nbsp;સીધા&nbsp;ખેતરેથી</p><p>•&nbsp;લાંબા&nbsp;સમય&nbsp;સુધી&nbsp;ટકી&nbsp;રહે</p><p>•&nbsp;રોજિંદા&nbsp;રસોઈ&nbsp;માટે&nbsp;યોગ્ય</p><p></p><p>સ્ટોરેજ:</p><p>ઠંડી&nbsp;અને&nbsp;સૂકી&nbsp;જગ્યાએ&nbsp;રાખો.&nbsp;ફ્રિજમાં&nbsp;ન&nbsp;રાખો.</p>",
+      "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;आलू&nbsp;गुजरात&nbsp;के&nbsp;स्थानीय&nbsp;किसानों&nbsp;से&nbsp;सीधे&nbsp;लाए&nbsp;जाते&nbsp;हैं।</p><p>प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए&nbsp;और&nbsp;रोज़मर्रा&nbsp;के&nbsp;उपयोग&nbsp;के&nbsp;लिए&nbsp;उत्तम।</p><p></p><p>फायदे:</p><p>•&nbsp;ताज़ा&nbsp;और&nbsp;प्राकृतिक</p><p>•&nbsp;सीधे&nbsp;खेतों&nbsp;से</p><p>•&nbsp;लंबे&nbsp;समय&nbsp;तक&nbsp;सुरक्षित</p><p>•&nbsp;रोज़मर्रा&nbsp;की&nbsp;रसोई&nbsp;के&nbsp;लिए&nbsp;उत्तम</p><p></p><p>स्टोरेज:</p><p>ठंडी&nbsp;और&nbsp;सूखी&nbsp;जगह&nbsp;पर&nbsp;रखें।&nbsp;फ्रिज&nbsp;में&nbsp;न&nbsp;रखें।</p>"
+    },
+    "isRecommendation": true,
+    "metaDescription": {
+      "en": "Buy fresh farm-grown potatoes online. Natural, chemical-free vegetables delivered to your home.",
+      "gu": "તાજા ખેતરેથી લાવવામાં આવેલા બટાકા ઓનલાઇન ખરીદો. પ્રાકૃતિક અને કેમિકલ મુક્ત શાકભાજી ઘરે ડિલિવરી.",
+      "hi": "ताज़ा खेतों से लाए गए आलू ऑनलाइन खरीदें। प्राकृतिक और केमिकल मुक्त सब्ज़ियां घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Potato – Natural Farm Vegetables",
+      "gu": "તાજા બટાકા – પ્રાકૃતિક ખેતરની શાકભાજી",
+      "hi": "ताज़ा आलू – प्राकृतिक खेत की सब्ज़ियां"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnsi4zdh000q9lc4l48bhlo6",
+      "slug": "natural-vegetables",
+      "image": "/uploads/categories/1776149559940-cfwrqetynm7umt0dx21r.webp",
+      "createdAt": "2026-04-18T15:27:50.302Z",
+      "updatedAt": "2026-04-18T15:27:50.302Z",
+      "name": {
+        "en": "Natural Vegetables",
+        "gu": "કુદરતી શાકભાજી",
+        "hi": "प्राकृतिक सब्जियां"
+      },
+      "description": {
+        "en": "Fresh category for all natural and raw vegetables.",
+        "gu": "તમામ કુદરતી અને કાચા શાકભાજી માટેની તાજી કેટેગરી.",
+        "hi": "ताज़ी और प्राकृतिक सब्जियों की श्रेणी।"
+      },
+      "icon": "/uploads/categories/icon-1775886832562-basket.gif",
+      "displayImage": "/uploads/categories/display-1776053308364-GeneratedImageApril112026-1240PM.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmnyggbfm000u9l04ry6oci79",
+        "url": "/uploads/products/1776161088964-Generated-Image-April-10,-2026---3_08PM.webp",
+        "productId": "cmnsq2x0f00109ld8xes3u988",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.550Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmnsq2x0f00119ld8b8dvp3k8",
+        "productId": "cmnsq2x0f00109ld8xes3u988",
+        "title": "500g",
+        "sku": "POTATO-001-500G",
+        "barcode": null,
+        "price": 30,
+        "compareAtPrice": 40,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.447Z",
+        "updatedAt": "2026-04-18T15:27:50.447Z"
+      },
+      {
+        "id": "cmnsq2x0f00129ld8xfyhqfuq",
+        "productId": "cmnsq2x0f00109ld8xes3u988",
+        "title": "1kg",
+        "sku": "POTATO-001-1KG",
+        "barcode": null,
+        "price": 60,
+        "compareAtPrice": 70,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 20,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.451Z",
+        "updatedAt": "2026-04-18T15:27:50.451Z"
+      },
+      {
+        "id": "cmnsq2x0f00139ld8j0d9o20o",
+        "productId": "cmnsq2x0f00109ld8xes3u988",
+        "title": "2kg",
+        "sku": "POTATO-001-2KG",
+        "barcode": null,
+        "price": 120,
+        "compareAtPrice": 130,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 30,
+        "options": {
+          "weight": "2kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.456Z",
+        "updatedAt": "2026-04-18T15:27:50.456Z"
+      }
+    ],
+    "inventoryItems": [
+      {
+        "id": "cmnt52xcj000dv41o0a28bphx",
+        "productId": "cmnsq2x0f00109ld8xes3u988",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 15,
+        "updatedAt": "2026-04-18T15:27:50.574Z",
+        "variantId": "cmnsq2x0f00119ld8b8dvp3k8",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnt52zsu000fv41oilyd4y8e",
+        "productId": "cmnsq2x0f00109ld8xes3u988",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 20,
+        "updatedAt": "2026-04-18T15:27:50.576Z",
+        "variantId": "cmnsq2x0f00129ld8xfyhqfuq",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnt533ti000hv41oaleu228o",
+        "productId": "cmnsq2x0f00109ld8xes3u988",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 30,
+        "updatedAt": "2026-04-18T15:27:50.577Z",
+        "variantId": "cmnsq2x0f00139ld8j0d9o20o",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      }
+    ],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmnsocuv300209l90qk16yd9s",
+    "slug": "tomato",
+    "price": 40,
+    "compareAtPrice": 60,
+    "costPerItem": null,
+    "sku": "TOMATO-001",
+    "barcode": "8901234567001",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnsi4zdh000q9lc4l48bhlo6",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.388Z",
+    "updatedAt": "2026-04-18T15:27:50.388Z",
+    "tags": "tomato, fresh, vegetables, natural, farm fresh",
+    "name": {
+      "en": "tomato",
+      "gu": "ટામેટા",
+      "hi": "टमाटर"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-grown&nbsp;tomatoes&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers.&nbsp;Naturally&nbsp;grown&nbsp;and&nbsp;chemical-free.</p>",
+      "gu": "<p>ખેતરેથી&nbsp;સીધા&nbsp;લાવવામાં&nbsp;આવેલા&nbsp;તાજા&nbsp;ટામેટા.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા&nbsp;અને&nbsp;કેમિકલ&nbsp;મુક્ત.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;लाए&nbsp;गए&nbsp;टमाटर,&nbsp;सीधे&nbsp;किसानों&nbsp;से&nbsp;प्राप्त।&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए&nbsp;और&nbsp;केमिकल&nbsp;मुक्त।</p>"
+    },
+    "description": {
+      "en": "<p>Our&nbsp;fresh&nbsp;tomatoes&nbsp;are&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers&nbsp;in&nbsp;Gujarat.</p><p>Naturally&nbsp;grown&nbsp;and&nbsp;chemical-free&nbsp;for&nbsp;healthy&nbsp;cooking.</p><p></p><p>Benefits:</p><p>•&nbsp;Fresh&nbsp;&amp;&nbsp;Natural</p><p>•&nbsp;Direct&nbsp;from&nbsp;farms</p><p>•&nbsp;Rich&nbsp;in&nbsp;flavor</p><p>•&nbsp;Perfect&nbsp;for&nbsp;daily&nbsp;cooking</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;cool&nbsp;and&nbsp;dry&nbsp;place.&nbsp;Refrigerate&nbsp;for&nbsp;longer&nbsp;freshness.</p>",
+      "gu": "<p>અમારા&nbsp;તાજા&nbsp;ટામેટા&nbsp;ગુજરાતના&nbsp;સ્થાનિક&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;સીધા&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે.</p><p>પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા&nbsp;અને&nbsp;રોજિંદા&nbsp;રસોઈ&nbsp;માટે&nbsp;ઉત્તમ.</p><p></p><p>ફાયદા:</p><p>•&nbsp;તાજા&nbsp;અને&nbsp;પ્રાકૃતિક</p><p>•&nbsp;સીધા&nbsp;ખેતરેથી</p><p>•&nbsp;સ્વાદિષ્ટ&nbsp;અને&nbsp;ગુણવત્તાયુક્ત</p><p>•&nbsp;પોષક&nbsp;તત્વોથી&nbsp;ભરપૂર</p><p></p><p>સ્ટોરેજ:</p><p>ફ્રિજમાં&nbsp;રાખો&nbsp;અને&nbsp;3-4&nbsp;દિવસમાં&nbsp;ઉપયોગ&nbsp;કરો.</p>",
+      "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;टमाटर&nbsp;गुजरात&nbsp;के&nbsp;स्थानीय&nbsp;किसानों&nbsp;से&nbsp;सीधे&nbsp;लाए&nbsp;जाते&nbsp;हैं।</p><p>प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए&nbsp;और&nbsp;रोज़मर्रा&nbsp;की&nbsp;रसोई&nbsp;के&nbsp;लिए&nbsp;उत्तम।</p><p></p><p>फायदे:</p><p>•&nbsp;ताज़ा&nbsp;और&nbsp;प्राकृतिक</p><p>•&nbsp;सीधे&nbsp;खेतों&nbsp;से</p><p>•&nbsp;स्वाद&nbsp;में&nbsp;बेहतरीन</p><p>•&nbsp;पोषक&nbsp;तत्वों&nbsp;से&nbsp;भरपूर</p><p></p><p>उपयोग:</p><p>सब्ज़ी,&nbsp;सलाद,&nbsp;करी,&nbsp;सूप&nbsp;और&nbsp;रोज़मर्रा&nbsp;के&nbsp;भोजन&nbsp;के&nbsp;लिए&nbsp;उपयुक्त।</p><p></p><p>स्टोरेज:</p><p>रेफ्रिजरेटर&nbsp;में&nbsp;रखें&nbsp;और&nbsp;3-4&nbsp;दिनों&nbsp;के&nbsp;भीतर&nbsp;उपयोग&nbsp;करें।</p>"
+    },
+    "isRecommendation": false,
+    "metaDescription": {
+      "en": "Buy fresh farm-grown tomatoes online. Natural, chemical-free vegetables delivered to your home.",
+      "gu": "તાજા ખેતરેથી લાવવામાં આવેલા ટામેટા ઓનલાઇન ખરીદો. પ્રાકૃતિક અને કેમિકલ મુક્ત શાકભાજી ઘરે ડિલિવરી.",
+      "hi": "ताज़ा खेतों से लाए गए टमाटर ऑनलाइन खरीदें। प्राकृतिक और केमिकल मुक्त सब्ज़ियां घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Tomato – Natural Farm Vegetables",
+      "gu": "તાજા ટામેટા – પ્રાકૃતિક ખેતરની શાકભાજી",
+      "hi": "ताज़ा टमाटर – प्राकृतिक खेत की सब्ज़ियां"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnsi4zdh000q9lc4l48bhlo6",
+      "slug": "natural-vegetables",
+      "image": "/uploads/categories/1776149559940-cfwrqetynm7umt0dx21r.webp",
+      "createdAt": "2026-04-18T15:27:50.302Z",
+      "updatedAt": "2026-04-18T15:27:50.302Z",
+      "name": {
+        "en": "Natural Vegetables",
+        "gu": "કુદરતી શાકભાજી",
+        "hi": "प्राकृतिक सब्जियां"
+      },
+      "description": {
+        "en": "Fresh category for all natural and raw vegetables.",
+        "gu": "તમામ કુદરતી અને કાચા શાકભાજી માટેની તાજી કેટેગરી.",
+        "hi": "ताज़ी और प्राकृतिक सब्जियों की श्रेणी।"
+      },
+      "icon": "/uploads/categories/icon-1775886832562-basket.gif",
+      "displayImage": "/uploads/categories/display-1776053308364-GeneratedImageApril112026-1240PM.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmnygicsc00119l047ccvs3xq",
+        "url": "/uploads/products/1776161145692-Generated-Image-April-10,-2026---3_07PM.webp",
+        "productId": "cmnsocuv300209l90qk16yd9s",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.534Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmnspupy1000r9ld8sp0mv53k",
+        "productId": "cmnsocuv300209l90qk16yd9s",
+        "title": "500g",
+        "sku": "TOMATO-001-500G",
+        "barcode": null,
+        "price": 20,
+        "compareAtPrice": 30,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.508Z",
+        "updatedAt": "2026-04-18T15:27:50.508Z"
+      },
+      {
+        "id": "cmnspupy1000s9ld8tybw2cnf",
+        "productId": "cmnsocuv300209l90qk16yd9s",
+        "title": "1kg",
+        "sku": "TOMATO-001-1KG",
+        "barcode": null,
+        "price": 40,
+        "compareAtPrice": 50,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.510Z",
+        "updatedAt": "2026-04-18T15:27:50.510Z"
+      }
+    ],
+    "inventoryItems": [
+      {
+        "id": "cmnt53bzm000nv41oe0tvlt2q",
+        "productId": "cmnsocuv300209l90qk16yd9s",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 15,
+        "updatedAt": "2026-04-18T15:27:50.582Z",
+        "variantId": "cmnspupy1000r9ld8sp0mv53k",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnt53efr000pv41op8rm6bw7",
+        "productId": "cmnsocuv300209l90qk16yd9s",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 15,
+        "updatedAt": "2026-04-18T15:27:50.584Z",
+        "variantId": "cmnspupy1000s9ld8tybw2cnf",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnsq5sqo00099ly0hv75y7vg",
+        "productId": "cmnsocuv300209l90qk16yd9s",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 10,
+        "updatedAt": "2026-04-18T15:27:50.594Z",
+        "variantId": null,
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      }
+    ],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmntvbwxr000u9lk44hlnwq1i",
+    "slug": "mango",
+    "price": 160,
+    "compareAtPrice": 200,
+    "costPerItem": null,
+    "sku": "MANGO-001",
+    "barcode": "8901234567901",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnstdn2j000c9lnkh954trqy",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.392Z",
+    "updatedAt": "2026-04-18T15:27:50.392Z",
+    "tags": "mango, fresh, fruits, juicy, natural",
+    "name": {
+      "en": "mango",
+      "gu": "કેરી",
+      "hi": "आम"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-picked&nbsp;mangoes&nbsp;sourced&nbsp;from&nbsp;trusted&nbsp;farms.&nbsp;Naturally&nbsp;sweet,&nbsp;juicy,&nbsp;and&nbsp;full&nbsp;of&nbsp;flavor.</p>",
+      "gu": "<p>ખેતરેથી&nbsp;લાવવામાં&nbsp;આવેલી&nbsp;તાજી&nbsp;કેરી.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;પાકેલી,&nbsp;મીઠી&nbsp;અને&nbsp;રસદાર.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;चुने&nbsp;गए&nbsp;आम,&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;पके&nbsp;हुए,&nbsp;मीठे&nbsp;और&nbsp;रसीले।</p>"
+    },
+    "description": {
+      "en": "<p>Our&nbsp;fresh&nbsp;mangoes&nbsp;are&nbsp;carefully&nbsp;selected&nbsp;from&nbsp;trusted&nbsp;farms&nbsp;to&nbsp;ensure&nbsp;premium&nbsp;quality&nbsp;and&nbsp;freshness.&nbsp;</p><p>Naturally&nbsp;ripened&nbsp;and&nbsp;perfect&nbsp;for&nbsp;summer&nbsp;enjoyment.</p><p></p><p>Benefits:</p><p>•&nbsp;Naturally&nbsp;sweet&nbsp;and&nbsp;juicy</p><p>•&nbsp;Rich&nbsp;in&nbsp;vitamins&nbsp;and&nbsp;antioxidants</p><p>•&nbsp;Fresh&nbsp;and&nbsp;naturally&nbsp;grown</p><p>•&nbsp;Perfect&nbsp;summer&nbsp;fruit</p><p></p><p>Storage:</p><p>Store&nbsp;at&nbsp;room&nbsp;temperature.&nbsp;Refrigerate&nbsp;after&nbsp;ripening&nbsp;for&nbsp;longer&nbsp;freshness.</p>",
+      "gu": "<p>અમારી&nbsp;તાજી&nbsp;કેરી&nbsp;વિશ્વસનીય&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;પસંદ&nbsp;કરીને&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે&nbsp;</p><p>જેથી&nbsp;શ્રેષ્ઠ&nbsp;ગુણવત્તા&nbsp;અને&nbsp;તાજગી&nbsp;મળે.</p><p></p><p>ફાયદા:</p><p>•&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;મીઠી&nbsp;અને&nbsp;રસદાર</p><p>•&nbsp;વિટામિન&nbsp;અને&nbsp;એન્ટી&nbsp;ઓક્સિડન્ટથી&nbsp;ભરપૂર</p><p>•&nbsp;તાજી&nbsp;અને&nbsp;પ્રાકૃતિક</p><p>•&nbsp;ઉનાળામાં&nbsp;માટે&nbsp;ઉત્તમ&nbsp;ફળ</p><p></p><p>સ્ટોરેજ:</p><p>રૂમ&nbsp;ટેમ્પરેચર&nbsp;પર&nbsp;રાખો.&nbsp;પાક્યા&nbsp;પછી&nbsp;ફ્રિજમાં&nbsp;રાખો.</p>",
+      "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;आम&nbsp;भरोसेमंद&nbsp;किसानों&nbsp;से&nbsp;सावधानीपूर्वक&nbsp;चुने&nbsp;जाते&nbsp;हैं&nbsp;</p><p>ताकि&nbsp;बेहतरीन&nbsp;गुणवत्ता&nbsp;और&nbsp;ताजगी&nbsp;सुनिश्चित&nbsp;हो&nbsp;सके।</p><p></p><p>फायदे:</p><p>•&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;मीठे&nbsp;और&nbsp;रसीले</p><p>•&nbsp;विटामिन&nbsp;और&nbsp;एंटीऑक्सीडेंट&nbsp;से&nbsp;भरपूर</p><p>•&nbsp;ताज़ा&nbsp;और&nbsp;प्राकृतिक</p><p>•&nbsp;गर्मियों&nbsp;के&nbsp;लिए&nbsp;उत्तम&nbsp;फल</p><p></p><p>स्टोरेज:</p><p>कमरे&nbsp;के&nbsp;तापमान&nbsp;पर&nbsp;रखें।&nbsp;पकने&nbsp;के&nbsp;बाद&nbsp;फ्रिज&nbsp;में&nbsp;रखें।</p>"
+    },
+    "isRecommendation": false,
+    "metaDescription": {
+      "en": "Buy fresh mangoes online. Sweet, juicy, and naturally grown mangoes delivered to your home.",
+      "gu": "તાજી અને મીઠી કેરી ઓનલાઇન ખરીદો. પ્રાકૃતિક અને રસદાર ફળ ઘરે ડિલિવરી.",
+      "hi": "ताज़ा और मीठे आम ऑनलाइन खरीदें। प्राकृतिक और रसीले फल घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Mango – Natural Farm Fruits",
+      "gu": "તાજી કેરી – પ્રાકૃતિક તાજા ફળ",
+      "hi": "ताज़ा आम – प्राकृतिक ताज़े फल"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnstdn2j000c9lnkh954trqy",
+      "slug": "fruits",
+      "image": "/uploads/categories/1775890337623-quon4vqgcsggblkb6nak.webp",
+      "createdAt": "2026-04-18T15:27:50.304Z",
+      "updatedAt": "2026-04-18T15:27:50.304Z",
+      "name": {
+        "en": "Fruits",
+        "gu": "ફળો",
+        "hi": "फल"
+      },
+      "description": {
+        "en": "Fresh, seasonal, and organic fruits sourced directly from local farms. Packed with essential vitamins and natural sweetness.",
+        "gu": "સીધા સ્થાનિક ખેતરોમાંથી મેળવેલા તાજા, મોસમી અને જૈવિક ફળો. આવશ્યક વિટામિન અને કુદરતી મીઠાશથી ભરપૂર.",
+        "hi": "ताजे, मौसमी और जैविक फल सीधे स्थानीय खेतों से प्राप्त। आवश्यक विटामिन और प्राकृतिक मिठास से भरपूर।"
+      },
+      "icon": "/uploads/categories/icon-1775886823088-fruits.gif",
+      "displayImage": "/uploads/categories/display-1776053317364-GeneratedImageApril112026-1240PM1.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmnx2mjog00139lt0jn0vd3bm",
+        "url": "/uploads/products/1776077398794-Generated-Image-April-11,-2026---10_41AM.webp",
+        "productId": "cmntvbwxr000u9lk44hlnwq1i",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.541Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmntvbwxs000v9lk4o8xuzs9v",
+        "productId": "cmntvbwxr000u9lk44hlnwq1i",
+        "title": "500g",
+        "sku": "MANGO-001-500G",
+        "barcode": null,
+        "price": 80,
+        "compareAtPrice": 100,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.468Z",
+        "updatedAt": "2026-04-18T15:27:50.468Z"
+      },
+      {
+        "id": "cmntvbwxs000w9lk42xeyu0d6",
+        "productId": "cmntvbwxr000u9lk44hlnwq1i",
+        "title": "1kg",
+        "sku": "MANGO-001-1KG",
+        "barcode": null,
+        "price": 160,
+        "compareAtPrice": 200,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.470Z",
+        "updatedAt": "2026-04-18T15:27:50.470Z"
+      }
+    ],
+    "inventoryItems": [],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmntv0hmj000g9lk4xkdi1bat",
+    "slug": "banana",
+    "price": 40,
+    "compareAtPrice": 50,
+    "costPerItem": null,
+    "sku": "BANANA-001",
+    "barcode": "8901234567801",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnstdn2j000c9lnkh954trqy",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.396Z",
+    "updatedAt": "2026-04-18T15:27:50.396Z",
+    "tags": "banana, fresh, fruits, healthy, natural",
+    "name": {
+      "en": "banana",
+      "gu": "કેળા",
+      "hi": "केला"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-picked&nbsp;bananas&nbsp;sourced&nbsp;from&nbsp;trusted&nbsp;farms.&nbsp;Naturally&nbsp;sweet,&nbsp;healthy,&nbsp;and&nbsp;full&nbsp;of&nbsp;nutrients.</p>",
+      "gu": "<p>તાજા&nbsp;ખેતરેથી&nbsp;લાવવામાં&nbsp;આવેલા&nbsp;કેળા.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;પાકેલા,&nbsp;મીઠા&nbsp;અને&nbsp;પોષક&nbsp;તત્વોથી&nbsp;ભરપૂર.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;लाए&nbsp;गए&nbsp;केले,&nbsp;भरोसेमंद&nbsp;किसानों&nbsp;से&nbsp;प्राप्त।&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;पके&nbsp;हुए&nbsp;और&nbsp;पौष्टिक।</p>"
+    },
+    "description": {
+      "en": "<p>Our&nbsp;fresh&nbsp;bananas&nbsp;are&nbsp;carefully&nbsp;selected&nbsp;from&nbsp;trusted&nbsp;farms&nbsp;to&nbsp;ensure&nbsp;quality&nbsp;and&nbsp;freshness.</p><p>Naturally&nbsp;ripened&nbsp;and&nbsp;perfect&nbsp;for&nbsp;daily&nbsp;consumption.</p><p></p><p>Benefits:</p><p>•&nbsp;Naturally&nbsp;sweet&nbsp;and&nbsp;fresh</p><p>•&nbsp;Rich&nbsp;in&nbsp;potassium&nbsp;and&nbsp;fiber</p><p>•&nbsp;Healthy&nbsp;energy&nbsp;snack</p><p>•&nbsp;Naturally&nbsp;grown</p><p></p><p>Storage:</p><p>Store&nbsp;at&nbsp;room&nbsp;temperature.&nbsp;Keep&nbsp;away&nbsp;from&nbsp;direct&nbsp;sunlight.</p>",
+      "gu": "<p>અમારા&nbsp;તાજા&nbsp;કેળા&nbsp;વિશ્વસનીય&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;પસંદ&nbsp;કરીને&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે&nbsp;</p><p>જેથી&nbsp;શ્રેષ્ઠ&nbsp;ગુણવત્તા&nbsp;અને&nbsp;તાજગી&nbsp;મળે.</p><p></p><p>ફાયદા:</p><p>•&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;મીઠા</p><p>•&nbsp;પોટેશિયમ&nbsp;અને&nbsp;ફાઇબરથી&nbsp;ભરપૂર</p><p>•&nbsp;હેલ્ધી&nbsp;એનર્જી&nbsp;માટે&nbsp;ઉત્તમ</p><p>•&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા</p><p></p><p>સ્ટોરેજ:</p><p>રૂમ&nbsp;ટેમ્પરેચર&nbsp;પર&nbsp;રાખો&nbsp;અને&nbsp;સીધી&nbsp;ધૂપથી&nbsp;દૂર&nbsp;રાખો.</p>",
+      "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;केले&nbsp;भरोसेमंद&nbsp;किसानों&nbsp;से&nbsp;सावधानीपूर्वक&nbsp;चुने&nbsp;जाते&nbsp;हैं&nbsp;</p><p>ताकि&nbsp;बेहतरीन&nbsp;गुणवत्ता&nbsp;और&nbsp;ताजगी&nbsp;सुनिश्चित&nbsp;हो&nbsp;सके।</p><p></p><p>फायदे:</p><p>•&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;मीठे</p><p>•&nbsp;पोटैशियम&nbsp;और&nbsp;फाइबर&nbsp;से&nbsp;भरपूर</p><p>•&nbsp;हेल्दी&nbsp;एनर्जी&nbsp;स्नैक</p><p>•&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए</p><p></p><p>स्टोरेज:</p><p>कमरे&nbsp;के&nbsp;तापमान&nbsp;पर&nbsp;रखें&nbsp;और&nbsp;सीधी&nbsp;धूप&nbsp;से&nbsp;दूर&nbsp;रखें।</p>"
+    },
+    "isRecommendation": false,
+    "metaDescription": {
+      "en": "Buy fresh bananas online. Naturally sweet and healthy fruits delivered to your home.",
+      "gu": "તાજા અને મીઠા કેળા ઓનલાઇન ખરીદો. પ્રાકૃતિક અને પોષક ફળ ઘરે ડિલિવરી.",
+      "hi": "ताज़ा और मीठे केले ऑनलाइन खरीदें। प्राकृतिक और पौष्टिक फल घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Banana – Natural Farm Fruits",
+      "gu": "તાજા કેળા – પ્રાકૃતિક તાજા ફળ",
+      "hi": "ताज़ा केला – प्राकृतिक ताज़े फल"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnstdn2j000c9lnkh954trqy",
+      "slug": "fruits",
+      "image": "/uploads/categories/1775890337623-quon4vqgcsggblkb6nak.webp",
+      "createdAt": "2026-04-18T15:27:50.304Z",
+      "updatedAt": "2026-04-18T15:27:50.304Z",
+      "name": {
+        "en": "Fruits",
+        "gu": "ફળો",
+        "hi": "फल"
+      },
+      "description": {
+        "en": "Fresh, seasonal, and organic fruits sourced directly from local farms. Packed with essential vitamins and natural sweetness.",
+        "gu": "સીધા સ્થાનિક ખેતરોમાંથી મેળવેલા તાજા, મોસમી અને જૈવિક ફળો. આવશ્યક વિટામિન અને કુદરતી મીઠાશથી ભરપૂર.",
+        "hi": "ताजे, मौसमी और जैविक फल सीधे स्थानीय खेतों से प्राप्त। आवश्यक विटामिन और प्राकृतिक मिठास से भरपूर।"
+      },
+      "icon": "/uploads/categories/icon-1775886823088-fruits.gif",
+      "displayImage": "/uploads/categories/display-1776053317364-GeneratedImageApril112026-1240PM1.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmnx2mp8300159lt0gs865eek",
+        "url": "/uploads/products/1776077405986-Generated-Image-April-10,-2026---3_18PM.webp",
+        "productId": "cmntv0hmj000g9lk4xkdi1bat",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.542Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmntv0hmk000i9lk4ya9vid21",
+        "productId": "cmntv0hmj000g9lk4xkdi1bat",
+        "title": "1kg",
+        "sku": "BANANA-001-1KG",
+        "barcode": null,
+        "price": 40,
+        "compareAtPrice": 50,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.464Z",
+        "updatedAt": "2026-04-18T15:27:50.464Z"
+      },
+      {
+        "id": "cmntv0hmk000h9lk4cx5yg5zy",
+        "productId": "cmntv0hmj000g9lk4xkdi1bat",
+        "title": "500g",
+        "sku": "BANANA-001-500G",
+        "barcode": null,
+        "price": 20,
+        "compareAtPrice": 30,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.467Z",
+        "updatedAt": "2026-04-18T15:27:50.467Z"
+      }
+    ],
+    "inventoryItems": [],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmntvl03e000z9lk4js61syv1",
+    "slug": "ornage",
+    "price": 100,
+    "compareAtPrice": 120,
+    "costPerItem": null,
+    "sku": "ORANGE-001",
+    "barcode": "8901234568001",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnstdn2j000c9lnkh954trqy",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.401Z",
+    "updatedAt": "2026-04-18T15:27:50.401Z",
+    "tags": "orange, fresh, fruits, juicy, vitamin c",
+    "name": {
+      "en": "orange",
+      "gu": "સંતરા",
+      "hi": "संतरा"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-picked&nbsp;oranges&nbsp;sourced&nbsp;from&nbsp;trusted&nbsp;farms.&nbsp;Naturally&nbsp;juicy,&nbsp;sweet,&nbsp;and&nbsp;rich&nbsp;in&nbsp;vitamin&nbsp;C.</p>",
+      "gu": "<p>તાજા&nbsp;ખેતરેથી&nbsp;લાવવામાં&nbsp;આવેલા&nbsp;સંતરા.&nbsp;રસદાર,&nbsp;મીઠા&nbsp;અને&nbsp;વિટામિન&nbsp;C&nbsp;થી&nbsp;ભરપૂર.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;लाए&nbsp;गए&nbsp;संतरे,&nbsp;रसदार,&nbsp;मीठे&nbsp;और&nbsp;विटामिन&nbsp;C&nbsp;से&nbsp;भरपूर।</p>"
+    },
+    "description": {
+      "en": "<p>Our&nbsp;fresh&nbsp;oranges&nbsp;are&nbsp;carefully&nbsp;selected&nbsp;from&nbsp;trusted&nbsp;farms&nbsp;to&nbsp;ensure&nbsp;premium&nbsp;quality&nbsp;and&nbsp;freshness.</p><p>Naturally&nbsp;grown&nbsp;and&nbsp;perfect&nbsp;for&nbsp;daily&nbsp;consumption.</p><p></p><p>Benefits:</p><p>•&nbsp;Juicy&nbsp;and&nbsp;refreshing</p><p>•&nbsp;Rich&nbsp;in&nbsp;Vitamin&nbsp;C</p><p>•&nbsp;Boosts&nbsp;immunity</p><p>•&nbsp;Naturally&nbsp;grown</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;refrigerator&nbsp;for&nbsp;longer&nbsp;freshness.</p>",
+      "gu": "<p>અમારા&nbsp;તાજા&nbsp;સંતરા&nbsp;વિશ્વસનીય&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;પસંદ&nbsp;કરીને&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે&nbsp;</p><p>જેથી&nbsp;શ્રેષ્ઠ&nbsp;ગુણવત્તા&nbsp;અને&nbsp;તાજગી&nbsp;મળે.</p><p></p><p>ફાયદા:</p><p>•&nbsp;રસદાર&nbsp;અને&nbsp;તાજા</p><p>•&nbsp;વિટામિન&nbsp;C&nbsp;થી&nbsp;ભરપૂર</p><p>•&nbsp;ઇમ્યુનિટી&nbsp;વધારવામાં&nbsp;મદદરૂપ</p><p>•&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા</p><p></p><p>સ્ટોરેજ:</p><p>લાંબા&nbsp;સમય&nbsp;સુધી&nbsp;તાજગી&nbsp;માટે&nbsp;ફ્રિજમાં&nbsp;રાખો.</p>",
+      "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;संतरे&nbsp;भरोसेमंद&nbsp;किसानों&nbsp;से&nbsp;सावधानीपूर्वक&nbsp;चुने&nbsp;जाते&nbsp;हैं&nbsp;</p><p>ताकि&nbsp;बेहतरीन&nbsp;गुणवत्ता&nbsp;और&nbsp;ताजगी&nbsp;सुनिश्चित&nbsp;हो&nbsp;सके।</p><p></p><p>फायदे:</p><p>•&nbsp;रसदार&nbsp;और&nbsp;ताज़ा</p><p>•&nbsp;विटामिन&nbsp;C&nbsp;से&nbsp;भरपूर</p><p>•&nbsp;इम्यूनिटी&nbsp;बढ़ाने&nbsp;में&nbsp;मददगार</p><p>•&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए</p><p></p><p>स्टोरेज:</p><p>लंबे&nbsp;समय&nbsp;तक&nbsp;ताजगी&nbsp;के&nbsp;लिए&nbsp;फ्रिज&nbsp;में&nbsp;रखें।</p>"
+    },
+    "isRecommendation": true,
+    "metaDescription": {
+      "en": "Buy fresh oranges online. Juicy, sweet, and vitamin-rich fruits delivered to your home.",
+      "gu": "તાજા અને રસદાર સંતરા ઓનલાઇન ખરીદો. વિટામિન C થી ભરપૂર ફળ ઘરે ડિલિવરી.",
+      "hi": "ताज़े और रसदार संतरे ऑनलाइन खरीदें। विटामिन C से भरपूर फल घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Orange – Natural Farm Fruits",
+      "gu": "તાજા સંતરા – પ્રાકૃતિક તાજા ફળ",
+      "hi": "ताज़ा संतरा – प्राकृतिक ताज़े फल"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnstdn2j000c9lnkh954trqy",
+      "slug": "fruits",
+      "image": "/uploads/categories/1775890337623-quon4vqgcsggblkb6nak.webp",
+      "createdAt": "2026-04-18T15:27:50.304Z",
+      "updatedAt": "2026-04-18T15:27:50.304Z",
+      "name": {
+        "en": "Fruits",
+        "gu": "ફળો",
+        "hi": "फल"
+      },
+      "description": {
+        "en": "Fresh, seasonal, and organic fruits sourced directly from local farms. Packed with essential vitamins and natural sweetness.",
+        "gu": "સીધા સ્થાનિક ખેતરોમાંથી મેળવેલા તાજા, મોસમી અને જૈવિક ફળો. આવશ્યક વિટામિન અને કુદરતી મીઠાશથી ભરપૂર.",
+        "hi": "ताजे, मौसमी और जैविक फल सीधे स्थानीय खेतों से प्राप्त। आवश्यक विटामिन और प्राकृतिक मिठास से भरपूर।"
+      },
+      "icon": "/uploads/categories/icon-1775886823088-fruits.gif",
+      "displayImage": "/uploads/categories/display-1776053317364-GeneratedImageApril112026-1240PM1.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmnx2jell000u9lt0x7on137l",
+        "url": "/uploads/products/1776077252236-Generated-Image-April-10,-2026---3_19PM.webp",
+        "productId": "cmntvl03e000z9lk4js61syv1",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.519Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmntvl03f00119lk4khhu4zt3",
+        "productId": "cmntvl03e000z9lk4js61syv1",
+        "title": "1kg",
+        "sku": "ORANGE-001-1KG",
+        "barcode": null,
+        "price": 100,
+        "compareAtPrice": 120,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.476Z",
+        "updatedAt": "2026-04-18T15:27:50.476Z"
+      },
+      {
+        "id": "cmntvl03f00109lk4r8nvfwn5",
+        "productId": "cmntvl03e000z9lk4js61syv1",
+        "title": "500g",
+        "sku": "ORANGE-001-500G",
+        "barcode": null,
+        "price": 50,
+        "compareAtPrice": 60,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.486Z",
+        "updatedAt": "2026-04-18T15:27:50.486Z"
+      }
+    ],
+    "inventoryItems": [],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmntvwjre00019lzwmzfk9a3w",
+    "slug": "grapes",
+    "price": 140,
+    "compareAtPrice": 160,
+    "costPerItem": null,
+    "sku": "GRAPES-001",
+    "barcode": "8901234568101",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnstdn2j000c9lnkh954trqy",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.405Z",
+    "updatedAt": "2026-04-18T15:27:50.405Z",
+    "tags": "grapes, fresh, fruits, juicy, healthy",
+    "name": {
+      "en": "grapes",
+      "gu": "દ્રાક્ષ",
+      "hi": "अंगूर"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-picked&nbsp;grapes&nbsp;sourced&nbsp;from&nbsp;trusted&nbsp;farms.&nbsp;Naturally&nbsp;sweet,&nbsp;juicy,&nbsp;and&nbsp;full&nbsp;of&nbsp;nutrients.</p>",
+      "gu": "<p>તાજી&nbsp;ખેતરેથી&nbsp;લાવવામાં&nbsp;આવેલી&nbsp;દ્રાક્ષ,&nbsp;મીઠી,&nbsp;રસદાર&nbsp;અને&nbsp;પોષક&nbsp;તત્વોથી&nbsp;ભરપૂર.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;चुने&nbsp;गए&nbsp;अंगूर,&nbsp;मीठे,&nbsp;रसदार&nbsp;और&nbsp;पोषक&nbsp;तत्वों&nbsp;से&nbsp;भरपूर।</p>"
+    },
+    "description": {
+      "en": "<p>Our&nbsp;fresh&nbsp;grapes&nbsp;are&nbsp;carefully&nbsp;selected&nbsp;from&nbsp;trusted&nbsp;farms&nbsp;to&nbsp;ensure&nbsp;premium&nbsp;quality&nbsp;and&nbsp;freshness.</p><p>Naturally&nbsp;grown&nbsp;and&nbsp;perfect&nbsp;for&nbsp;daily&nbsp;consumption.</p><p></p><p>Benefits:</p><p>•&nbsp;Sweet&nbsp;and&nbsp;juicy</p><p>•&nbsp;Rich&nbsp;in&nbsp;antioxidants</p><p>•&nbsp;Healthy&nbsp;and&nbsp;refreshing</p><p>•&nbsp;Naturally&nbsp;grown</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;refrigerator&nbsp;and&nbsp;wash&nbsp;before&nbsp;use.</p>",
+      "gu": "<p>અમારી&nbsp;તાજી&nbsp;દ્રાક્ષ&nbsp;વિશ્વસનીય&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;પસંદ&nbsp;કરીને&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે&nbsp;</p><p>જેથી&nbsp;શ્રેષ્ઠ&nbsp;ગુણવત્તા&nbsp;અને&nbsp;તાજગી&nbsp;મળે.</p><p></p><p>ફાયદા:</p><p>•&nbsp;મીઠી&nbsp;અને&nbsp;રસદાર</p><p>•&nbsp;એન્ટી&nbsp;ઓક્સિડન્ટથી&nbsp;ભરપૂર</p><p>•&nbsp;હેલ્ધી&nbsp;અને&nbsp;તાજગી&nbsp;આપનાર</p><p>•&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી</p><p></p><p>સ્ટોરેજ:</p><p>ફ્રિજમાં&nbsp;રાખો&nbsp;અને&nbsp;ઉપયોગ&nbsp;પહેલા&nbsp;ધોઈ&nbsp;લો.</p>",
+      "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;अंगूर&nbsp;भरोसेमंद&nbsp;किसानों&nbsp;से&nbsp;सावधानीपूर्वक&nbsp;चुने&nbsp;जाते&nbsp;हैं&nbsp;</p><p>ताकि&nbsp;बेहतरीन&nbsp;गुणवत्ता&nbsp;और&nbsp;ताजगी&nbsp;सुनिश्चित&nbsp;हो&nbsp;सके।</p><p></p><p>फायदे:</p><p>•&nbsp;मीठे&nbsp;और&nbsp;रसदार</p><p>•&nbsp;एंटीऑक्सीडेंट&nbsp;से&nbsp;भरपूर</p><p>•&nbsp;हेल्दी&nbsp;और&nbsp;ताज़गी&nbsp;देने&nbsp;वाले</p><p>•&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए</p><p></p><p>स्टोरेज:</p><p>फ्रिज&nbsp;में&nbsp;रखें&nbsp;और&nbsp;उपयोग&nbsp;से&nbsp;पहले&nbsp;धो&nbsp;लें।</p>"
+    },
+    "isRecommendation": true,
+    "metaDescription": {
+      "en": "Buy fresh grapes online. Sweet, juicy, and healthy fruits delivered to your home.",
+      "gu": "તાજી અને મીઠી દ્રાક્ષ ઓનલાઇન ખરીદો. સ્વસ્થ અને રસદાર ફળ ઘરે ડિલિવરી.",
+      "hi": "ताज़े और मीठे अंगूर ऑनलाइन खरीदें। स्वस्थ और रसदार फल घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Grapes – Natural Farm Fruits",
+      "gu": "તાજી દ્રાક્ષ – પ્રાકૃતિક તાજા ફળ",
+      "hi": "ताज़ा अंगूर – प्राकृतिक ताज़े फल"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnstdn2j000c9lnkh954trqy",
+      "slug": "fruits",
+      "image": "/uploads/categories/1775890337623-quon4vqgcsggblkb6nak.webp",
+      "createdAt": "2026-04-18T15:27:50.304Z",
+      "updatedAt": "2026-04-18T15:27:50.304Z",
+      "name": {
+        "en": "Fruits",
+        "gu": "ફળો",
+        "hi": "फल"
+      },
+      "description": {
+        "en": "Fresh, seasonal, and organic fruits sourced directly from local farms. Packed with essential vitamins and natural sweetness.",
+        "gu": "સીધા સ્થાનિક ખેતરોમાંથી મેળવેલા તાજા, મોસમી અને જૈવિક ફળો. આવશ્યક વિટામિન અને કુદરતી મીઠાશથી ભરપૂર.",
+        "hi": "ताजे, मौसमी और जैविक फल सीधे स्थानीय खेतों से प्राप्त। आवश्यक विटामिन और प्राकृतिक मिठास से भरपूर।"
+      },
+      "icon": "/uploads/categories/icon-1775886823088-fruits.gif",
+      "displayImage": "/uploads/categories/display-1776053317364-GeneratedImageApril112026-1240PM1.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmny5o6jg00059l84dio9iu6q",
+        "url": "/uploads/products/1776077376696-Generated-Image-April-10,-2026---3_20PM.webp",
+        "productId": "cmntvwjre00019lzwmzfk9a3w",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.526Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmntvwjrf00029lzwf78nmsfg",
+        "productId": "cmntvwjre00019lzwmzfk9a3w",
+        "title": "500g",
+        "sku": "GRAPES-001-500G",
+        "barcode": null,
+        "price": 70,
+        "compareAtPrice": 80,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.481Z",
+        "updatedAt": "2026-04-18T15:27:50.481Z"
+      },
+      {
+        "id": "cmntvwjrf00039lzwqr0d6p5p",
+        "productId": "cmntvwjre00019lzwmzfk9a3w",
+        "title": "1kg",
+        "sku": "GRAPES-001-1KG",
+        "barcode": null,
+        "price": 140,
+        "compareAtPrice": 160,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.490Z",
+        "updatedAt": "2026-04-18T15:27:50.490Z"
+      }
+    ],
+    "inventoryItems": [],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmntw3qj800079lzw9vd2zg3t",
+    "slug": "pomegranate",
+    "price": 180,
+    "compareAtPrice": 200,
+    "costPerItem": null,
+    "sku": "POMEGRANATE-001",
+    "barcode": "8901234568201",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnstdn2j000c9lnkh954trqy",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.409Z",
+    "updatedAt": "2026-04-18T15:27:50.409Z",
+    "tags": "pomegranate, fresh, fruits, healthy, juicy",
+    "name": {
+      "en": "pomegranate",
+      "gu": "દાડમ",
+      "hi": "अनार"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-picked&nbsp;pomegranates&nbsp;sourced&nbsp;from&nbsp;trusted&nbsp;farms.&nbsp;Naturally&nbsp;sweet,&nbsp;juicy,&nbsp;and&nbsp;rich&nbsp;in&nbsp;nutrients.</p>",
+      "gu": "<p>ખેતરેથી&nbsp;લાવવામાં&nbsp;આવેલું&nbsp;તાજું&nbsp;દાડમ,&nbsp;મીઠું,&nbsp;રસદાર&nbsp;અને&nbsp;પોષક&nbsp;તત્વોથી&nbsp;ભરપૂર.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;चुने&nbsp;गए&nbsp;अनार,&nbsp;मीठे,&nbsp;रसदार&nbsp;और&nbsp;पोषक&nbsp;तत्वों&nbsp;से&nbsp;भरपूर।</p>"
+    },
+    "description": {
+      "en": "<p>Our&nbsp;fresh&nbsp;pomegranates&nbsp;are&nbsp;carefully&nbsp;selected&nbsp;from&nbsp;trusted&nbsp;farms&nbsp;to&nbsp;ensure&nbsp;premium&nbsp;quality&nbsp;and&nbsp;freshness.</p><p>Naturally&nbsp;grown&nbsp;and&nbsp;perfect&nbsp;for&nbsp;daily&nbsp;consumption.</p><p></p><p>Benefits:</p><p>•&nbsp;Rich&nbsp;in&nbsp;antioxidants</p><p>•&nbsp;Boosts&nbsp;immunity</p><p>•&nbsp;Sweet&nbsp;and&nbsp;juicy</p><p>•&nbsp;Naturally&nbsp;grown</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;refrigerator&nbsp;for&nbsp;longer&nbsp;freshness.</p>",
+      "gu": "<p>અમારું&nbsp;તાજું&nbsp;દાડમ&nbsp;વિશ્વસનીય&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;પસંદ&nbsp;કરીને&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે&nbsp;</p><p>જેથી&nbsp;શ્રેષ્ઠ&nbsp;ગુણવત્તા&nbsp;અને&nbsp;તાજગી&nbsp;મળે.</p><p></p><p>ફાયદા:</p><p>•&nbsp;એન્ટી&nbsp;ઓક્સિડન્ટથી&nbsp;ભરપૂર</p><p>•&nbsp;ઇમ્યુનિટી&nbsp;વધારવામાં&nbsp;મદદરૂપ</p><p>•&nbsp;મીઠું&nbsp;અને&nbsp;રસદાર</p><p>•&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલું</p><p></p><p>સ્ટોરેજ:</p><p>લાંબા&nbsp;સમય&nbsp;સુધી&nbsp;તાજગી&nbsp;માટે&nbsp;ફ્રિજમાં&nbsp;રાખો.</p>",
+      "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;अनार&nbsp;भरोसेमंद&nbsp;किसानों&nbsp;से&nbsp;सावधानीपूर्वक&nbsp;चुने&nbsp;जाते&nbsp;हैं&nbsp;</p><p>ताकि&nbsp;बेहतरीन&nbsp;गुणवत्ता&nbsp;और&nbsp;ताजगी&nbsp;सुनिश्चित&nbsp;हो&nbsp;सके।</p><p></p><p>फायदे:</p><p>•&nbsp;एंटीऑक्सीडेंट&nbsp;से&nbsp;भरपूर</p><p>•&nbsp;इम्यूनिटी&nbsp;बढ़ाने&nbsp;में&nbsp;मददगार</p><p>•&nbsp;मीठे&nbsp;और&nbsp;रसदार</p><p>•&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए</p><p></p><p>स्टोरेज:</p><p>लंबे&nbsp;समय&nbsp;तक&nbsp;ताजगी&nbsp;के&nbsp;लिए&nbsp;फ्रिज&nbsp;में&nbsp;रखें।</p>"
+    },
+    "isRecommendation": false,
+    "metaDescription": {
+      "en": "Buy fresh pomegranates online. Sweet, juicy, and healthy fruits delivered to your home.",
+      "gu": "તાજું અને મીઠું દાડમ ઓનલાઇન ખરીદો. સ્વસ્થ અને રસદાર ફળ ઘરે ડિલિવરી.",
+      "hi": "ताज़े और मीठे अनार ऑनलाइन खरीदें। स्वस्थ और रसदार फल घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Pomegranate – Natural Farm Fruits",
+      "gu": "તાજું દાડમ – પ્રાકૃતિક તાજા ફળ",
+      "hi": "ताज़ा अनार – प्राकृतिक ताज़े फल"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnstdn2j000c9lnkh954trqy",
+      "slug": "fruits",
+      "image": "/uploads/categories/1775890337623-quon4vqgcsggblkb6nak.webp",
+      "createdAt": "2026-04-18T15:27:50.304Z",
+      "updatedAt": "2026-04-18T15:27:50.304Z",
+      "name": {
+        "en": "Fruits",
+        "gu": "ફળો",
+        "hi": "फल"
+      },
+      "description": {
+        "en": "Fresh, seasonal, and organic fruits sourced directly from local farms. Packed with essential vitamins and natural sweetness.",
+        "gu": "સીધા સ્થાનિક ખેતરોમાંથી મેળવેલા તાજા, મોસમી અને જૈવિક ફળો. આવશ્યક વિટામિન અને કુદરતી મીઠાશથી ભરપૂર.",
+        "hi": "ताजे, मौसमी और जैविक फल सीधे स्थानीय खेतों से प्राप्त। आवश्यक विटामिन और प्राकृतिक मिठास से भरपूर।"
+      },
+      "icon": "/uploads/categories/icon-1775886823088-fruits.gif",
+      "displayImage": "/uploads/categories/display-1776053317364-GeneratedImageApril112026-1240PM1.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmny5qzij00079l84v8udkv3z",
+        "url": "/uploads/products/1776077392717-Generated-Image-April-11,-2026---11_02AM.webp",
+        "productId": "cmntw3qj800079lzw9vd2zg3t",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.528Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmntw3qj800089lzwqhmdmfup",
+        "productId": "cmntw3qj800079lzw9vd2zg3t",
+        "title": "500g",
+        "sku": "POMEGRANATE-001-500G",
+        "barcode": null,
+        "price": 90,
+        "compareAtPrice": 110,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.458Z",
+        "updatedAt": "2026-04-18T15:27:50.458Z"
+      },
+      {
+        "id": "cmntw3qj800099lzw8nqyluv3",
+        "productId": "cmntw3qj800079lzw9vd2zg3t",
+        "title": "1kg",
+        "sku": "POMEGRANATE-001-1KG",
+        "barcode": null,
+        "price": 180,
+        "compareAtPrice": 200,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 0,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.472Z",
+        "updatedAt": "2026-04-18T15:27:50.472Z"
+      }
+    ],
+    "inventoryItems": [],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmnsr7xp000069leoa37dv4xc",
+    "slug": "brinjal",
+    "price": 40,
+    "compareAtPrice": 50,
+    "costPerItem": null,
+    "sku": "BRINJAL-001",
+    "barcode": "8901234567601",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnsi4zdh000q9lc4l48bhlo6",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.413Z",
+    "updatedAt": "2026-04-18T15:27:50.413Z",
+    "tags": "brinjal, baingan, eggplant, fresh vegetables, natural",
+    "name": {
+      "en": "brinjal",
+      "gu": "રીંગણ",
+      "hi": "बैंगन"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-grown&nbsp;brinjal&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers.&nbsp;Naturally&nbsp;grown&nbsp;and&nbsp;chemical-free.</p>",
+      "gu": "<p>ખેતરેથી&nbsp;સીધા&nbsp;લાવવામાં&nbsp;આવેલા&nbsp;તાજા&nbsp;રીંગણ.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા&nbsp;અને&nbsp;કેમિકલ&nbsp;મુક્ત.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;लाए&nbsp;गए&nbsp;बैंगन,&nbsp;सीधे&nbsp;किसानों&nbsp;से&nbsp;प्राप्त।&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए&nbsp;और&nbsp;केमिकल&nbsp;मुक्त।</p>"
+    },
+    "description": {
+      "en": "<p>Fresh&nbsp;brinjal&nbsp;(Baingan)&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers&nbsp;in&nbsp;Gujarat.</p><p>Naturally&nbsp;grown&nbsp;and&nbsp;perfect&nbsp;for&nbsp;daily&nbsp;cooking.</p><p></p><p>Benefits:</p><p>•&nbsp;Fresh&nbsp;&amp;&nbsp;Natural</p><p>•&nbsp;Direct&nbsp;from&nbsp;farms</p><p>•&nbsp;Rich&nbsp;in&nbsp;nutrients</p><p>•&nbsp;Naturally&nbsp;grown</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;refrigerator&nbsp;and&nbsp;use&nbsp;within&nbsp;2-3&nbsp;days&nbsp;for&nbsp;best&nbsp;freshness.</p>",
+      "gu": "<p>અમારા&nbsp;તાજા&nbsp;રીંગણ&nbsp;ગુજરાતના&nbsp;સ્થાનિક&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;સીધા&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે.</p><p>પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા&nbsp;અને&nbsp;રોજિંદા&nbsp;રસોઈ&nbsp;માટે&nbsp;ઉત્તમ.</p><p></p><p>ફાયદા:</p><p>•&nbsp;તાજા&nbsp;અને&nbsp;પ્રાકૃતિક</p><p>•&nbsp;સીધા&nbsp;ખેતરેથી</p><p>•&nbsp;પોષક&nbsp;તત્વોથી&nbsp;ભરપૂર</p><p>•&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા</p><p></p><p>સ્ટોરેજ:</p><p>ફ્રિજમાં&nbsp;રાખો&nbsp;અને&nbsp;2-3&nbsp;દિવસમાં&nbsp;ઉપયોગ&nbsp;કરો.</p>",
+      "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;बैंगन&nbsp;गुजरात&nbsp;के&nbsp;स्थानीय&nbsp;किसानों&nbsp;से&nbsp;सीधे&nbsp;लाए&nbsp;जाते&nbsp;हैं।</p><p>प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए&nbsp;और&nbsp;रोज़मर्रा&nbsp;की&nbsp;रसोई&nbsp;के&nbsp;लिए&nbsp;उत्तम।</p><p></p><p>फायदे:</p><p>•&nbsp;ताज़ा&nbsp;और&nbsp;प्राकृतिक</p><p>•&nbsp;सीधे&nbsp;खेतों&nbsp;से</p><p>•&nbsp;पोषक&nbsp;तत्वों&nbsp;से&nbsp;भरपूर</p><p>•&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए</p><p></p><p>स्टोरेज:</p><p>रेफ्रिजरेटर&nbsp;में&nbsp;रखें&nbsp;और&nbsp;2-3&nbsp;दिनों&nbsp;के&nbsp;भीतर&nbsp;उपयोग&nbsp;करें।</p>"
+    },
+    "isRecommendation": false,
+    "metaDescription": {
+      "en": "Buy fresh farm-grown brinjal online. Natural, chemical-free vegetables delivered to your home.",
+      "gu": "તાજા ખેતરેથી લાવવામાં આવેલા રીંગણ ઓનલાઇન ખરીદો. પ્રાકૃતિક અને કેમિકલ મુક્ત શાકભાજી ઘરે ડિલિવરી.",
+      "hi": "ताज़ा खेतों से लाए गए बैंगन ऑनलाइन खरीदें। प्राकृतिक और केमिकल मुक्त सब्ज़ियां घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Brinjal (Baingan) – Natural Farm Vegetables",
+      "gu": "તાજા રીંગણ – પ્રાકૃતિક ખેતરની શાકભાજી",
+      "hi": "ताज़ा बैंगन – प्राकृतिक खेत की सब्ज़ियां"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnsi4zdh000q9lc4l48bhlo6",
+      "slug": "natural-vegetables",
+      "image": "/uploads/categories/1776149559940-cfwrqetynm7umt0dx21r.webp",
+      "createdAt": "2026-04-18T15:27:50.302Z",
+      "updatedAt": "2026-04-18T15:27:50.302Z",
+      "name": {
+        "en": "Natural Vegetables",
+        "gu": "કુદરતી શાકભાજી",
+        "hi": "प्राकृतिक सब्जियां"
+      },
+      "description": {
+        "en": "Fresh category for all natural and raw vegetables.",
+        "gu": "તમામ કુદરતી અને કાચા શાકભાજી માટેની તાજી કેટેગરી.",
+        "hi": "ताज़ी और प्राकृतिक सब्जियों की श्रेणी।"
+      },
+      "icon": "/uploads/categories/icon-1775886832562-basket.gif",
+      "displayImage": "/uploads/categories/display-1776053308364-GeneratedImageApril112026-1240PM.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmnx2mwp600169lt0dlzj47bm",
+        "url": "/uploads/products/1776077415673-Generated-Image-April-10,-2026---3_10PM.webp",
+        "productId": "cmnsr7xp000069leoa37dv4xc",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.544Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmnsr7xp100089leoa2m5g3s2",
+        "productId": "cmnsr7xp000069leoa37dv4xc",
+        "title": "1kg",
+        "sku": "BRINJAL-001-1KG",
+        "barcode": null,
+        "price": 30,
+        "compareAtPrice": 35,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 14,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.453Z",
+        "updatedAt": "2026-04-18T15:27:50.453Z"
+      },
+      {
+        "id": "cmnsr7xp100099leoepzlidjn",
+        "productId": "cmnsr7xp000069leoa37dv4xc",
+        "title": "2kg",
+        "sku": "BRINJAL-001-2KG",
+        "barcode": null,
+        "price": 60,
+        "compareAtPrice": 65,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 30,
+        "options": {
+          "weight": "2kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.455Z",
+        "updatedAt": "2026-04-18T15:27:50.455Z"
+      },
+      {
+        "id": "cmnwumlrr002p9leonntckyh5",
+        "productId": "cmnsr7xp000069leoa37dv4xc",
+        "title": "5kg",
+        "sku": "BRINJAL-001-5KG",
+        "barcode": null,
+        "price": 120,
+        "compareAtPrice": 130,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 30,
+        "options": {
+          "weight": "5kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.459Z",
+        "updatedAt": "2026-04-18T15:27:50.459Z"
+      },
+      {
+        "id": "cmnwumlrm002n9leomud7k412",
+        "productId": "cmnsr7xp000069leoa37dv4xc",
+        "title": "500gm",
+        "sku": "BRINJAL-001-500GM",
+        "barcode": null,
+        "price": 15,
+        "compareAtPrice": 20,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 10,
+        "options": {
+          "weight": "500gm"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.475Z",
+        "updatedAt": "2026-04-18T15:27:50.475Z"
+      }
+    ],
+    "inventoryItems": [
+      {
+        "id": "cmnt52sy70009v41o4jg7brw9",
+        "productId": "cmnsr7xp000069leoa37dv4xc",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 30,
+        "updatedAt": "2026-04-18T15:27:50.573Z",
+        "variantId": "cmnsr7xp100099leoepzlidjn",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnt53ojf000xv41oue0b35a6",
+        "productId": "cmnsr7xp000069leoa37dv4xc",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 14,
+        "updatedAt": "2026-04-18T15:27:50.588Z",
+        "variantId": "cmnsr7xp100089leoa2m5g3s2",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      }
+    ],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmnsqafoy00169ld8t57h5pei",
+    "slug": "lady-finger",
+    "price": 30,
+    "compareAtPrice": 40,
+    "costPerItem": null,
+    "sku": "LADYFINGER-001",
+    "barcode": "8901234567301",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnsi4zdh000q9lc4l48bhlo6",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.417Z",
+    "updatedAt": "2026-04-18T15:27:50.417Z",
+    "tags": "lady finger, bhindi, okra, fresh vegetables, natural",
+    "name": {
+      "en": "lady fingerr",
+      "gu": "ભીંડા",
+      "hi": "भिंडी"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-grown&nbsp;lady&nbsp;finger&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers.&nbsp;Naturally&nbsp;grown&nbsp;and&nbsp;chemical-free.</p>",
+      "gu": "<p>ખેતરેથી&nbsp;સીધા&nbsp;લાવવામાં&nbsp;આવેલા&nbsp;તાજા&nbsp;ભીંડા.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા&nbsp;અને&nbsp;કેમિકલ&nbsp;મુક્ત.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;लाई&nbsp;गई&nbsp;भिंडी,&nbsp;सीधे&nbsp;किसानों&nbsp;से&nbsp;प्राप्त।&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाई&nbsp;गई&nbsp;और&nbsp;केमिकल&nbsp;मुक्त।</p>"
+    },
+    "description": {
+      "en": "<p>Fresh&nbsp;lady&nbsp;finger&nbsp;(Bhindi)&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers&nbsp;in&nbsp;Gujarat.&nbsp;</p><p>Naturally&nbsp;grown&nbsp;and&nbsp;perfect&nbsp;for&nbsp;daily&nbsp;cooking.</p><p></p><p>Benefits:</p><p>•&nbsp;Fresh&nbsp;&amp;&nbsp;Tender</p><p>•&nbsp;Direct&nbsp;from&nbsp;farms</p><p>•&nbsp;Naturally&nbsp;grown</p><p>•&nbsp;Rich&nbsp;in&nbsp;fiber</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;refrigerator&nbsp;and&nbsp;use&nbsp;within&nbsp;2-3&nbsp;days&nbsp;for&nbsp;best&nbsp;freshness.</p>",
+      "gu": "<p>અમારા&nbsp;તાજા&nbsp;ભીંડા&nbsp;ગુજરાતના&nbsp;સ્થાનિક&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;સીધા&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે.</p><p>પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા&nbsp;અને&nbsp;રોજિંદા&nbsp;રસોઈ&nbsp;માટે&nbsp;ઉત્તમ.</p><p></p><p>ફાયદા:</p><p>•&nbsp;તાજા&nbsp;અને&nbsp;નરમ</p><p>•&nbsp;સીધા&nbsp;ખેતરેથી</p><p>•&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલા</p><p>•&nbsp;ફાઇબરથી&nbsp;ભરપૂર</p><p></p><p>સ્ટોરેજ:</p><p>ફ્રિજમાં&nbsp;રાખો&nbsp;અને&nbsp;2-3&nbsp;દિવસમાં&nbsp;ઉપયોગ&nbsp;કરો.</p>",
+      "hi": "<p>हमारी&nbsp;ताज़ा&nbsp;भिंडी&nbsp;गुजरात&nbsp;के&nbsp;स्थानीय&nbsp;किसानों&nbsp;से&nbsp;सीधे&nbsp;लाई&nbsp;जाती&nbsp;है।</p><p>प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाई&nbsp;गई&nbsp;और&nbsp;रोज़मर्रा&nbsp;की&nbsp;रसोई&nbsp;के&nbsp;लिए&nbsp;उत्तम।</p><p></p><p>फायदे:</p><p>•&nbsp;ताज़ी&nbsp;और&nbsp;नरम</p><p>•&nbsp;सीधे&nbsp;खेतों&nbsp;से</p><p>•&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाई&nbsp;गई</p><p>•&nbsp;फाइबर&nbsp;से&nbsp;भरपूर</p><p></p><p>स्टोरेज:</p><p>रेफ्रिजरेटर&nbsp;में&nbsp;रखें&nbsp;और&nbsp;2-3&nbsp;दिनों&nbsp;के&nbsp;भीतर&nbsp;उपयोग&nbsp;करें।</p>"
+    },
+    "isRecommendation": false,
+    "metaDescription": {
+      "en": "Buy fresh farm-grown lady finger online. Natural, chemical-free vegetables delivered to your home.",
+      "gu": "ખેતરેથી લાવવામાં આવેલા તાજા ભીંડા",
+      "hi": "ताज़ा खेतों से लाई गई भिंडी ऑनलाइन खरीदें। प्राकृतिक और केमिकल मुक्त सब्ज़ियां घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Lady Finger (Bhindi) – Natural Farm Vegetables",
+      "gu": "તાજા ભીંડા – પ્રાકૃતિક ખેતરની શાકભાજી",
+      "hi": "ताज़ा भिंडी – प्राकृतिक खेत की सब्ज़ियां"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnsi4zdh000q9lc4l48bhlo6",
+      "slug": "natural-vegetables",
+      "image": "/uploads/categories/1776149559940-cfwrqetynm7umt0dx21r.webp",
+      "createdAt": "2026-04-18T15:27:50.302Z",
+      "updatedAt": "2026-04-18T15:27:50.302Z",
+      "name": {
+        "en": "Natural Vegetables",
+        "gu": "કુદરતી શાકભાજી",
+        "hi": "प्राकृतिक सब्जियां"
+      },
+      "description": {
+        "en": "Fresh category for all natural and raw vegetables.",
+        "gu": "તમામ કુદરતી અને કાચા શાકભાજી માટેની તાજી કેટેગરી.",
+        "hi": "ताज़ी और प्राकृतिक सब्जियों की श्रेणी।"
+      },
+      "icon": "/uploads/categories/icon-1775886832562-basket.gif",
+      "displayImage": "/uploads/categories/display-1776053308364-GeneratedImageApril112026-1240PM.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmnyggsp2000w9l043bwatwx5",
+        "url": "/uploads/products/1776161111336-Generated-Image-April-10,-2026---3_11PM.webp",
+        "productId": "cmnsqafoy00169ld8t57h5pei",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.553Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmnsqafoy00179ld8iqx6wa1r",
+        "productId": "cmnsqafoy00169ld8t57h5pei",
+        "title": "500g",
+        "sku": "LADYFINGER-001-500G",
+        "barcode": null,
+        "price": 15,
+        "compareAtPrice": 20,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.498Z",
+        "updatedAt": "2026-04-18T15:27:50.498Z"
+      },
+      {
+        "id": "cmnsqafoy00189ld8nd21um60",
+        "productId": "cmnsqafoy00169ld8t57h5pei",
+        "title": "1kg",
+        "sku": "LADYFINGER-001-1KG",
+        "barcode": null,
+        "price": 30,
+        "compareAtPrice": 40,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 20,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.500Z",
+        "updatedAt": "2026-04-18T15:27:50.500Z"
+      }
+    ],
+    "inventoryItems": [
+      {
+        "id": "cmnt536p8000jv41oi79t9p7y",
+        "productId": "cmnsqafoy00169ld8t57h5pei",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 15,
+        "updatedAt": "2026-04-18T15:27:50.578Z",
+        "variantId": "cmnsqafoy00179ld8iqx6wa1r",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnt538u8000lv41obsrntbly",
+        "productId": "cmnsqafoy00169ld8t57h5pei",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 20,
+        "updatedAt": "2026-04-18T15:27:50.581Z",
+        "variantId": "cmnsqafoy00189ld8nd21um60",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      }
+    ],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmnsr0f4y00009leofb13iz34",
+    "slug": "cauliflower",
+    "price": 20,
+    "compareAtPrice": 30,
+    "costPerItem": null,
+    "sku": "CAULIFLOWER-001",
+    "barcode": "8901234567501",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnsi4zdh000q9lc4l48bhlo6",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.421Z",
+    "updatedAt": "2026-04-18T15:27:50.421Z",
+    "tags": "cauliflower, fresh, vegetables, gobi, natural",
+    "name": {
+      "en": "cauliflower",
+      "gu": "ફૂલકોબી",
+      "hi": "फूलगोभी"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-grown&nbsp;cauliflower&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers.&nbsp;Naturally&nbsp;grown&nbsp;and&nbsp;chemical-free.</p>",
+      "gu": "<p>ખેતરેથી&nbsp;સીધી&nbsp;લાવવામાં&nbsp;આવેલી&nbsp;તાજી&nbsp;ફૂલકોબી.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી&nbsp;અને&nbsp;કેમિકલ&nbsp;મુક્ત.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;लाई&nbsp;गई&nbsp;फूलगोभी,&nbsp;सीधे&nbsp;किसानों&nbsp;से&nbsp;प्राप्त।&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाई&nbsp;गई&nbsp;और&nbsp;केमिकल&nbsp;मुक्त।</p>"
+    },
+    "description": {
+      "en": "<p>Fresh&nbsp;cauliflower&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers&nbsp;in&nbsp;Gujarat.</p><p>Naturally&nbsp;grown&nbsp;and&nbsp;perfect&nbsp;for&nbsp;healthy&nbsp;cooking.</p><p></p><p>Benefits:</p><p>•&nbsp;Fresh&nbsp;&amp;&nbsp;Natural</p><p>•&nbsp;Direct&nbsp;from&nbsp;farms</p><p>•&nbsp;Rich&nbsp;in&nbsp;nutrients</p><p>•&nbsp;Naturally&nbsp;grown</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;refrigerator&nbsp;and&nbsp;use&nbsp;within&nbsp;3-4&nbsp;days&nbsp;for&nbsp;best&nbsp;freshness.</p>",
+      "gu": "<p>અમારી&nbsp;તાજી&nbsp;ફૂલકોબી&nbsp;ગુજરાતના&nbsp;સ્થાનિક&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;સીધી&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે.</p><p>પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી&nbsp;અને&nbsp;સ્વસ્થ&nbsp;રસોઈ&nbsp;માટે&nbsp;ઉત્તમ.</p><p></p><p>ફાયદા:</p><p>•&nbsp;તાજી&nbsp;અને&nbsp;પ્રાકૃતિક</p><p>•&nbsp;સીધી&nbsp;ખેતરેથી</p><p>•&nbsp;પોષક&nbsp;તત્વોથી&nbsp;ભરપૂર</p><p>•&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી</p><p></p><p>સ્ટોરેજ:</p><p>ફ્રિજમાં&nbsp;રાખો&nbsp;અને&nbsp;3-4&nbsp;દિવસમાં&nbsp;ઉપયોગ&nbsp;કરો.</p>",
+      "hi": "<p>हमारी&nbsp;ताज़ा&nbsp;फूलगोभी&nbsp;गुजरात&nbsp;के&nbsp;स्थानीय&nbsp;किसानों&nbsp;से&nbsp;सीधे&nbsp;लाई&nbsp;जाती&nbsp;है।</p><p>प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाई&nbsp;गई&nbsp;और&nbsp;स्वस्थ&nbsp;भोजन&nbsp;के&nbsp;लिए&nbsp;उत्तम।</p><p></p><p>फायदे:</p><p>•&nbsp;ताज़ी&nbsp;और&nbsp;प्राकृतिक</p><p>•&nbsp;सीधे&nbsp;खेतों&nbsp;से</p><p>•&nbsp;पोषक&nbsp;तत्वों&nbsp;से&nbsp;भरपूर</p><p>•&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाई&nbsp;गई</p><p></p><p>स्टोरेज:</p><p>रेफ्रिजरेटर&nbsp;में&nbsp;रखें&nbsp;और&nbsp;3-4&nbsp;दिनों&nbsp;के&nbsp;भीतर&nbsp;उपयोग&nbsp;करें।</p>"
+    },
+    "isRecommendation": true,
+    "metaDescription": {
+      "en": "Buy fresh farm-grown cauliflower online. Natural, chemical-free vegetables delivered to your home.",
+      "gu": "તાજી ખેતરેથી લાવવામાં આવેલી ફૂલકોબી ઓનલાઇન ખરીદો. પ્રાકૃતિક અને કેમિકલ મુક્ત શાકભાજી ઘરે ડિલિવરી.",
+      "hi": "ताज़ा खेतों से लाई गई फूलगोभी ऑनलाइन खरीदें। प्राकृतिक और केमिकल मुक्त सब्ज़ियां घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Cauliflower – Natural Farm Vegetables",
+      "gu": "તાજી ફૂલકોબી – પ્રાકૃતિક ખેતરની શાકભાજી",
+      "hi": "ताज़ा फूलगोभी – प्राकृतिक खेत की सब्ज़ियां"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnsi4zdh000q9lc4l48bhlo6",
+      "slug": "natural-vegetables",
+      "image": "/uploads/categories/1776149559940-cfwrqetynm7umt0dx21r.webp",
+      "createdAt": "2026-04-18T15:27:50.302Z",
+      "updatedAt": "2026-04-18T15:27:50.302Z",
+      "name": {
+        "en": "Natural Vegetables",
+        "gu": "કુદરતી શાકભાજી",
+        "hi": "प्राकृतिक सब्जियां"
+      },
+      "description": {
+        "en": "Fresh category for all natural and raw vegetables.",
+        "gu": "તમામ કુદરતી અને કાચા શાકભાજી માટેની તાજી કેટેગરી.",
+        "hi": "ताज़ी और प्राकृतिक सब्जियों की श्रेणी।"
+      },
+      "icon": "/uploads/categories/icon-1775886832562-basket.gif",
+      "displayImage": "/uploads/categories/display-1776053308364-GeneratedImageApril112026-1240PM.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmnx2n3uc00179lt0xo820a82",
+        "url": "/uploads/products/1776077424925-Generated-Image-April-10,-2026---4_17PM.webp",
+        "productId": "cmnsr0f4y00009leofb13iz34",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.545Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmnsr0f4y00019leowi12ritk",
+        "productId": "cmnsr0f4y00009leofb13iz34",
+        "title": "500g",
+        "sku": "CAULIFLOWER-001-500G",
+        "barcode": null,
+        "price": 10,
+        "compareAtPrice": 15,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.461Z",
+        "updatedAt": "2026-04-18T15:27:50.461Z"
+      },
+      {
+        "id": "cmnsr0f4y00029leo98z6kxgh",
+        "productId": "cmnsr0f4y00009leofb13iz34",
+        "title": "1kg",
+        "sku": "CAULIFLOWER-001-1KG",
+        "barcode": null,
+        "price": 20,
+        "compareAtPrice": 30,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.473Z",
+        "updatedAt": "2026-04-18T15:27:50.473Z"
+      },
+      {
+        "id": "cmnsr0f4y00039leouiid4jrr",
+        "productId": "cmnsr0f4y00009leofb13iz34",
+        "title": "2kg",
+        "sku": "CAULIFLOWER-001-2KG",
+        "barcode": null,
+        "price": 40,
+        "compareAtPrice": 50,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "2kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.478Z",
+        "updatedAt": "2026-04-18T15:27:50.478Z"
+      }
+    ],
+    "inventoryItems": [
+      {
+        "id": "cmnt53ha1000rv41omnsrf3lf",
+        "productId": "cmnsr0f4y00009leofb13iz34",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 15,
+        "updatedAt": "2026-04-18T15:27:50.585Z",
+        "variantId": "cmnsr0f4y00019leowi12ritk",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnt53jhp000tv41o4ahj4z8t",
+        "productId": "cmnsr0f4y00009leofb13iz34",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 15,
+        "updatedAt": "2026-04-18T15:27:50.586Z",
+        "variantId": "cmnsr0f4y00029leo98z6kxgh",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      },
+      {
+        "id": "cmnt53ltm000vv41o9scgijib",
+        "productId": "cmnsr0f4y00009leofb13iz34",
+        "warehouseId": "cmnsii05000179lfwacpr8j1z",
+        "quantity": 15,
+        "updatedAt": "2026-04-18T15:27:50.587Z",
+        "variantId": "cmnsr0f4y00039leouiid4jrr",
+        "warehouse": {
+          "id": "cmnsii05000179lfwacpr8j1z",
+          "pincode": "380015",
+          "name": {
+            "en": "Main Hub Station",
+            "gu": "મુખ્ય હબ",
+            "hi": "मुख्य केंद्र"
+          },
+          "locationName": {
+            "en": "SG Highway Storage",
+            "gu": "એસજી હાઇવે સ્ટોરેજ",
+            "hi": "एसजी राजमार्ग भंडारण"
+          },
+          "address": {
+            "en": "101, Storage Park, SG Highway",
+            "gu": "૧૦૧, સ્ટોરેજ પાર્ક, એસજી હાઇવે",
+            "hi": "101, स्टोरेज पार्क, एसजी हाईवे"
+          }
+        }
+      }
+    ],
+    "offers": [],
+    "reviews": []
+  },
+  {
+    "id": "cmnsqnjix001i9ld86ltd6qzo",
+    "slug": "cucumber",
+    "price": 20,
+    "compareAtPrice": 30,
+    "costPerItem": null,
+    "sku": "CUCUMBER-001",
+    "barcode": "8901234567401",
+    "weight": null,
+    "isTaxable": true,
+    "status": "ACTIVE",
+    "categoryId": "cmnsi4zdh000q9lc4l48bhlo6",
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.424Z",
+    "updatedAt": "2026-04-18T15:27:50.424Z",
+    "tags": "cucumber, fresh, vegetables, salad, natural",
+    "name": {
+      "en": "cucumber",
+      "gu": "કાકડી",
+      "hi": "खीरा"
+    },
+    "shortDesc": {
+      "en": "<p>Fresh&nbsp;farm-grown&nbsp;cucumbers&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers.&nbsp;Naturally&nbsp;grown&nbsp;and&nbsp;chemical-free.</p>",
+      "gu": "<p>ખેતરેથી&nbsp;સીધી&nbsp;લાવવામાં&nbsp;આવેલી&nbsp;તાજી&nbsp;કાકડી.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી&nbsp;અને&nbsp;કેમિકલ&nbsp;મુક્ત.</p>",
+      "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;लाए&nbsp;गए&nbsp;खीरे,&nbsp;सीधे&nbsp;किसानों&nbsp;से&nbsp;प्राप्त।&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए&nbsp;और&nbsp;केमिकल&nbsp;मुक्त।</p>"
+    },
+    "description": {
+      "en": "<p>Fresh&nbsp;cucumbers&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers&nbsp;in&nbsp;Gujarat.</p><p>Naturally&nbsp;grown,&nbsp;crunchy,&nbsp;and&nbsp;perfect&nbsp;for&nbsp;salads&nbsp;and&nbsp;daily&nbsp;consumption.</p><p></p><p>Benefits:</p><p>•&nbsp;Fresh&nbsp;&amp;&nbsp;Crunchy</p><p>•&nbsp;Hydrating&nbsp;&amp;&nbsp;Healthy</p><p>•&nbsp;Direct&nbsp;from&nbsp;farms</p><p>•&nbsp;Naturally&nbsp;grown</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;refrigerator&nbsp;and&nbsp;use&nbsp;within&nbsp;3-4&nbsp;days&nbsp;for&nbsp;best&nbsp;freshness.</p>",
+      "gu": "<p>અમારી&nbsp;તાજી&nbsp;કાકડી&nbsp;ગુજરાતના&nbsp;સ્થાનિક&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;સીધી&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે.</p><p>પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી,&nbsp;તાજી&nbsp;અને&nbsp;આરોગ્ય&nbsp;માટે&nbsp;લાભદાયક.</p><p></p><p>ફાયદા:</p><p>•&nbsp;તાજી&nbsp;અને&nbsp;કરકરી</p><p>•&nbsp;શરીરને&nbsp;ઠંડક&nbsp;આપે</p><p>•&nbsp;પાણીથી&nbsp;ભરપૂર</p><p>•&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી</p><p></p><p>સ્ટોરેજ:</p><p>ફ્રિજમાં&nbsp;રાખો&nbsp;અને&nbsp;3-4&nbsp;દિવસમાં&nbsp;ઉપયોગ&nbsp;કરો.</p>",
+      "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;खीरे&nbsp;गुजरात&nbsp;के&nbsp;स्थानीय&nbsp;किसानों&nbsp;से&nbsp;सीधे&nbsp;लाए&nbsp;जाते&nbsp;हैं।</p><p>प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए,&nbsp;कुरकुरे&nbsp;और&nbsp;सेहत&nbsp;के&nbsp;लिए&nbsp;लाभदायक।</p><p></p><p>फायदे:</p><p>•&nbsp;ताज़ा&nbsp;और&nbsp;कुरकुरा</p><p>•&nbsp;शरीर&nbsp;को&nbsp;ठंडक&nbsp;देता&nbsp;है</p><p>•&nbsp;पानी&nbsp;से&nbsp;भरपूर</p><p>•&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाया&nbsp;गया</p><p></p><p>स्टोरेज:</p><p>रेफ्रिजरेटर&nbsp;में&nbsp;रखें&nbsp;और&nbsp;3-4&nbsp;दिनों&nbsp;के&nbsp;भीतर&nbsp;उपयोग&nbsp;करें।</p>"
+    },
+    "isRecommendation": true,
+    "metaDescription": {
+      "en": "Buy fresh farm-grown cucumbers online. Natural, chemical-free vegetables delivered to your home.",
+      "gu": "તાજી ખેતરેથી લાવવામાં આવેલી કાકડી ઓનલાઇન ખરીદો. પ્રાકૃતિક અને કેમિકલ મુક્ત શાકભાજી ઘરે ડિલિવરી.",
+      "hi": "ताज़ा खेतों से लाए गए खीरे ऑनलाइन खरीदें। प्राकृतिक और केमिकल मुक्त सब्ज़ियां घर तक डिलीवरी।"
+    },
+    "metaTitle": {
+      "en": "Fresh Cucumber – Natural Farm Vegetables",
+      "gu": "તાજી કાકડી – પ્રાકૃતિક ખેતરની શાકભાજી",
+      "hi": "ताज़ा खीरा – प्राकृतिक खेत की सब्ज़ियां"
+    },
+    "options": null,
+    "taxRate": 5,
+    "shippingProfileId": null,
+    "category": {
+      "id": "cmnsi4zdh000q9lc4l48bhlo6",
+      "slug": "natural-vegetables",
+      "image": "/uploads/categories/1776149559940-cfwrqetynm7umt0dx21r.webp",
+      "createdAt": "2026-04-18T15:27:50.302Z",
+      "updatedAt": "2026-04-18T15:27:50.302Z",
+      "name": {
+        "en": "Natural Vegetables",
+        "gu": "કુદરતી શાકભાજી",
+        "hi": "प्राकृतिक सब्जियां"
+      },
+      "description": {
+        "en": "Fresh category for all natural and raw vegetables.",
+        "gu": "તમામ કુદરતી અને કાચા શાકભાજી માટેની તાજી કેટેગરી.",
+        "hi": "ताज़ी और प्राकृतिक सब्जियों की श्रेणी।"
+      },
+      "icon": "/uploads/categories/icon-1775886832562-basket.gif",
+      "displayImage": "/uploads/categories/display-1776053308364-GeneratedImageApril112026-1240PM.webp"
+    },
+    "vendor": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      },
+      "user": {
+        "id": "cmnsn774a000q9l9093k3zqhm",
+        "email": "rahul.kumar@gmail.com",
+        "password": "123456",
+        "role": "FARMER",
+        "phone": "9685746352",
+        "profileImage": null,
+        "createdAt": "2026-04-18T15:27:50.290Z",
+        "updatedAt": "2026-04-18T15:27:50.290Z",
+        "status": "active",
+        "name": {
+          "en": "Rahul Kumar",
+          "gu": "રાહુલ કુમાર",
+          "hi": "राहुल कुमार"
+        }
+      }
+    },
+    "images": [
+      {
+        "id": "cmnygj78c00129l041d8tyuye",
+        "url": "/uploads/products/1776161081411-Generated-Image-April-11,-2026---10_10AM.webp",
+        "productId": "cmnsqnjix001i9ld86ltd6qzo",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.535Z",
+        "altText": null,
+        "offerId": null
+      },
+      {
+        "id": "cmnygj78c00139l04e3l7aees",
+        "url": "/uploads/products/1776161081412-download.webp",
+        "productId": "cmnsqnjix001i9ld86ltd6qzo",
+        "farmerId": null,
+        "eventId": null,
+        "warehouseId": null,
+        "vendorId": null,
+        "createdAt": "2026-04-18T15:27:50.537Z",
+        "altText": null,
+        "offerId": null
+      }
+    ],
+    "variants": [
+      {
+        "id": "cmnsqnjix001k9ld8z1o6b3ob",
+        "productId": "cmnsqnjix001i9ld86ltd6qzo",
+        "title": "1kg",
+        "sku": "CUCUMBER-001-1KG",
+        "barcode": null,
+        "price": 20,
+        "compareAtPrice": 30,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 15,
+        "options": {
+          "weight": "1kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.507Z",
+        "updatedAt": "2026-04-18T15:27:50.507Z"
+      },
+      {
+        "id": "cmnsqnjix001j9ld8dhls1860",
+        "productId": "cmnsqnjix001i9ld86ltd6qzo",
+        "title": "500g",
+        "sku": "CUCUMBER-001-500G",
+        "barcode": null,
+        "price": 10,
+        "compareAtPrice": 15,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 10,
+        "options": {
+          "weight": "500g"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.512Z",
+        "updatedAt": "2026-04-18T15:27:50.512Z"
+      },
+      {
+        "id": "cmnsqnjix001l9ld8zihho0p9",
+        "productId": "cmnsqnjix001i9ld86ltd6qzo",
+        "title": "2kg",
+        "sku": "CUCUMBER-001-2KG",
+        "barcode": null,
+        "price": 40,
+        "compareAtPrice": 50,
+        "costPerItem": null,
+        "weight": null,
+        "quantity": 20,
+        "options": {
+          "weight": "2kg"
+        },
+        "isDefault": false,
+        "isActive": true,
+        "createdAt": "2026-04-18T15:27:50.514Z",
+        "updatedAt": "2026-04-18T15:27:50.514Z"
+      }
+    ],
+    "inventoryItems": [],
+    "offers": [],
+    "reviews": []
+  }
+]

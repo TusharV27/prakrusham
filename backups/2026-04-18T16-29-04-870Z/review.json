@@ -1,0 +1,199 @@
+[
+  {
+    "id": "cmntzsccl00099llsras1ruqe",
+    "rating": 5,
+    "authorId": "cmnsn6z3b00009lngiamnvuek",
+    "productId": null,
+    "vendorId": null,
+    "farmerId": "cmnsn7866000s9l908ha0az8w",
+    "createdAt": "2026-04-18T15:27:50.557Z",
+    "comment": {
+      "en": "This is an excellent product! Highly recommended."
+    },
+    "status": "APPROVED",
+    "author": {
+      "id": "cmnsn6z3b00009lngiamnvuek",
+      "email": "admin@prakrushi.com",
+      "password": "$2a$10$g58S/p.Gk69UCPdMnmMc.Oye/r8AvwXe5J5oQNJUcMywoUQWopdwW",
+      "role": "ADMIN",
+      "phone": null,
+      "profileImage": null,
+      "createdAt": "2026-04-18T15:27:50.288Z",
+      "updatedAt": "2026-04-18T15:27:50.288Z",
+      "status": "active",
+      "name": {
+        "en": "Prakrushi Admin",
+        "gu": "પ્રકૃતિ એડમિન",
+        "hi": "प्रकृति एडमिन"
+      }
+    },
+    "product": null,
+    "farmer": {
+      "id": "cmnsn7866000s9l908ha0az8w",
+      "userId": "cmnsn774a000q9l9093k3zqhm",
+      "landSize": 10,
+      "farmDetails": {
+        "en": "Our farm grows fresh organic vegetables like onions, tomatoes, and potatoes. We follow natural farming methods without harmful chemicals and ensure high-quality produce for our customers.",
+        "gu": "અમારા ખેતરમાં તાજી ઓર્ગેનિક શાકભાજી જેમ કે ડુંગળી, ટામેટા અને બટાકા ઉગાડવામાં આવે છે. અમે હાનિકારક રસાયણો વગર કુદરતી ખેતી કરીએ છીએ અને ગ્રાહકોને ઉચ્ચ ગુણવત્તાવાળા ઉત્પાદનો પ્રદાન કરીએ છીએ.",
+        "hi": "हमारे खेत में ताज़ी जैविक सब्जियां जैसे प्याज़, टमाटर और आलू उगाए जाते हैं। हम बिना हानिकारक रसायनों के प्राकृतिक खेती करते हैं और ग्राहकों को उच्च गुणवत्ता वाले उत्पाद प्रदान करते हैं।"
+      }
+    },
+    "vendor": null
+  },
+  {
+    "id": "cmntzk7nx00039llsolzgnitw",
+    "rating": 5,
+    "authorId": "cmnsktb2t00069l900z1v6tmn",
+    "productId": "cmnsl5zgb000f9l90kqbaypye",
+    "vendorId": null,
+    "farmerId": null,
+    "createdAt": "2026-04-18T15:27:50.560Z",
+    "comment": {
+      "en": "This is an excellent product! Highly recommended."
+    },
+    "status": "APPROVED",
+    "author": {
+      "id": "cmnsktb2t00069l900z1v6tmn",
+      "email": "abc@gmail.com",
+      "password": "$2a$10$oZvcwJz9foiZ2IcNN0RMIekbFVU8wh1Poc9c8sTu6mndIjXKKfIVm",
+      "role": "CUSTOMER",
+      "phone": "7485964152",
+      "profileImage": null,
+      "createdAt": "2026-04-18T15:27:50.287Z",
+      "updatedAt": "2026-04-18T15:27:50.287Z",
+      "status": "active",
+      "name": {
+        "en": "Bhavatik",
+        "gu": " ભાવિક",
+        "hi": "भवटिक"
+      }
+    },
+    "product": {
+      "id": "cmnsl5zgb000f9l90kqbaypye",
+      "slug": "onion",
+      "price": 30,
+      "compareAtPrice": 50,
+      "costPerItem": null,
+      "sku": "ONION-001",
+      "barcode": "8901234567890",
+      "weight": 1,
+      "isTaxable": true,
+      "status": "ACTIVE",
+      "categoryId": "cmnsi4zdh000q9lc4l48bhlo6",
+      "vendorId": "cmnsiok3u001i9lfwcfh4q3os",
+      "farmerId": "cmnsn7866000s9l908ha0az8w",
+      "createdAt": "2026-04-18T15:27:50.368Z",
+      "updatedAt": "2026-04-18T15:27:50.368Z",
+      "tags": "fresh, organic, onion, vegetables",
+      "name": {
+        "en": "onion",
+        "gu": "ડુંગળી",
+        "hi": "प्याज़"
+      },
+      "shortDesc": {
+        "en": "<p>Fresh&nbsp;farm-grown&nbsp;onions&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers.&nbsp;Naturally&nbsp;grown&nbsp;and&nbsp;chemical-free.</p>",
+        "gu": "<p>ખેતરેથી&nbsp;સીધી&nbsp;લાવવામાં&nbsp;આવેલી&nbsp;તાજી&nbsp;ડુંગળી.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી&nbsp;અને&nbsp;કેમિકલ&nbsp;મુક્ત.</p>",
+        "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;लाया&nbsp;गया&nbsp;प्याज़,&nbsp;सीधे&nbsp;किसानों&nbsp;से&nbsp;प्राप्त।&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाया&nbsp;गया&nbsp;और&nbsp;केमिकल&nbsp;मुक्त।</p>"
+      },
+      "description": {
+        "en": "<p>Our&nbsp;fresh&nbsp;onions&nbsp;are&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers&nbsp;in&nbsp;Gujarat.&nbsp;</p><p>These&nbsp;onions&nbsp;are&nbsp;naturally&nbsp;grown&nbsp;without&nbsp;harmful&nbsp;chemicals.</p><p></p><p>Benefits:</p><p>•&nbsp;Fresh&nbsp;&amp;&nbsp;Natural</p><p>•&nbsp;Direct&nbsp;from&nbsp;farms</p><p>•&nbsp;Long&nbsp;shelf&nbsp;life</p><p>•&nbsp;Rich&nbsp;in&nbsp;flavor</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;a&nbsp;cool&nbsp;and&nbsp;dry&nbsp;place.</p>",
+        "gu": "<p>અમારી&nbsp;તાજી&nbsp;ડુંગળી&nbsp;ગુજરાતના&nbsp;સ્થાનિક&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;સીધી&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે.</p><p>પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી&nbsp;અને&nbsp;રોજિંદા&nbsp;ઉપયોગ&nbsp;માટે&nbsp;ઉત્તમ.</p><p></p><p>ફાયદા:</p><p>•&nbsp;તાજી&nbsp;અને&nbsp;પ્રાકૃતિક</p><p>•&nbsp;સીધી&nbsp;ખેતરેથી</p><p>•&nbsp;લાંબા&nbsp;સમય&nbsp;સુધી&nbsp;ટકી&nbsp;રહે</p><p>•&nbsp;સ્વાદિષ્ટ&nbsp;અને&nbsp;ગુણવત્તાયુક્ત</p><p></p><p>સ્ટોરેજ:</p><p>ઠંડી&nbsp;અને&nbsp;સૂકી&nbsp;જગ્યાએ&nbsp;રાખો.</p>",
+        "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;प्याज़&nbsp;गुजरात&nbsp;के&nbsp;स्थानीय&nbsp;किसानों&nbsp;से&nbsp;सीधे&nbsp;लाए&nbsp;जाते&nbsp;हैं।</p><p>प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए&nbsp;और&nbsp;रोज़मर्रा&nbsp;के&nbsp;उपयोग&nbsp;के&nbsp;लिए&nbsp;उत्तम।</p><p></p><p>फायदे:</p><p>•&nbsp;ताज़ा&nbsp;और&nbsp;प्राकृतिक</p><p>•&nbsp;सीधे&nbsp;खेतों&nbsp;से</p><p>•&nbsp;लंबे&nbsp;समय&nbsp;तक&nbsp;सुरक्षित</p><p>•&nbsp;स्वाद&nbsp;में&nbsp;बेहतरीन</p><p></p><p>स्टोरेज:</p><p>ठंडी&nbsp;और&nbsp;सूखी&nbsp;जगह&nbsp;पर&nbsp;रखें।</p>"
+      },
+      "isRecommendation": false,
+      "metaDescription": {
+        "en": "Buy fresh farm-grown onions online. Natural, chemical-free vegetables delivered to your home.",
+        "gu": "તાજી ખેતરેથી લાવવામાં આવેલી ડુંગળી ઓનલાઇન ખરીદો. પ્રાકૃતિક અને કેમિકલ મુક્ત શાકભાજી ઘરે ડિલિવરી.",
+        "hi": "ताज़ा खेतों से लाया गया प्याज़ ऑनलाइन खरीदें। प्राकृतिक और केमिकल मुक्त सब्ज़ियां घर तक डिलीवरी।"
+      },
+      "metaTitle": {
+        "en": "Fresh Onion - Natural Farm Vegetables",
+        "gu": "તાજી ડુંગળી – પ્રાકૃતિક ખેતરની શાકભાજી",
+        "hi": "ताज़ा प्याज़ – प्राकृतिक खेत की सब्ज़ियां"
+      },
+      "options": null,
+      "taxRate": 5,
+      "shippingProfileId": null
+    },
+    "farmer": null,
+    "vendor": null
+  },
+  {
+    "id": "cmntzpnjz00059llsf28lsph8",
+    "rating": 5,
+    "authorId": "cmnsktb2t00069l900z1v6tmn",
+    "productId": "cmnsl5zgb000f9l90kqbaypye",
+    "vendorId": null,
+    "farmerId": null,
+    "createdAt": "2026-04-18T15:27:50.562Z",
+    "comment": {
+      "en": "This is an excellent product! Highly recommended."
+    },
+    "status": "PENDING",
+    "author": {
+      "id": "cmnsktb2t00069l900z1v6tmn",
+      "email": "abc@gmail.com",
+      "password": "$2a$10$oZvcwJz9foiZ2IcNN0RMIekbFVU8wh1Poc9c8sTu6mndIjXKKfIVm",
+      "role": "CUSTOMER",
+      "phone": "7485964152",
+      "profileImage": null,
+      "createdAt": "2026-04-18T15:27:50.287Z",
+      "updatedAt": "2026-04-18T15:27:50.287Z",
+      "status": "active",
+      "name": {
+        "en": "Bhavatik",
+        "gu": " ભાવિક",
+        "hi": "भवटिक"
+      }
+    },
+    "product": {
+      "id": "cmnsl5zgb000f9l90kqbaypye",
+      "slug": "onion",
+      "price": 30,
+      "compareAtPrice": 50,
+      "costPerItem": null,
+      "sku": "ONION-001",
+      "barcode": "8901234567890",
+      "weight": 1,
+      "isTaxable": true,
+      "status": "ACTIVE",
+      "categoryId": "cmnsi4zdh000q9lc4l48bhlo6",
+      "vendorId": "cmnsiok3u001i9lfwcfh4q3os",
+      "farmerId": "cmnsn7866000s9l908ha0az8w",
+      "createdAt": "2026-04-18T15:27:50.368Z",
+      "updatedAt": "2026-04-18T15:27:50.368Z",
+      "tags": "fresh, organic, onion, vegetables",
+      "name": {
+        "en": "onion",
+        "gu": "ડુંગળી",
+        "hi": "प्याज़"
+      },
+      "shortDesc": {
+        "en": "<p>Fresh&nbsp;farm-grown&nbsp;onions&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers.&nbsp;Naturally&nbsp;grown&nbsp;and&nbsp;chemical-free.</p>",
+        "gu": "<p>ખેતરેથી&nbsp;સીધી&nbsp;લાવવામાં&nbsp;આવેલી&nbsp;તાજી&nbsp;ડુંગળી.&nbsp;પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી&nbsp;અને&nbsp;કેમિકલ&nbsp;મુક્ત.</p>",
+        "hi": "<p>ताज़ा&nbsp;खेतों&nbsp;से&nbsp;लाया&nbsp;गया&nbsp;प्याज़,&nbsp;सीधे&nbsp;किसानों&nbsp;से&nbsp;प्राप्त।&nbsp;प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाया&nbsp;गया&nbsp;और&nbsp;केमिकल&nbsp;मुक्त।</p>"
+      },
+      "description": {
+        "en": "<p>Our&nbsp;fresh&nbsp;onions&nbsp;are&nbsp;sourced&nbsp;directly&nbsp;from&nbsp;local&nbsp;farmers&nbsp;in&nbsp;Gujarat.&nbsp;</p><p>These&nbsp;onions&nbsp;are&nbsp;naturally&nbsp;grown&nbsp;without&nbsp;harmful&nbsp;chemicals.</p><p></p><p>Benefits:</p><p>•&nbsp;Fresh&nbsp;&amp;&nbsp;Natural</p><p>•&nbsp;Direct&nbsp;from&nbsp;farms</p><p>•&nbsp;Long&nbsp;shelf&nbsp;life</p><p>•&nbsp;Rich&nbsp;in&nbsp;flavor</p><p></p><p>Storage:</p><p>Store&nbsp;in&nbsp;a&nbsp;cool&nbsp;and&nbsp;dry&nbsp;place.</p>",
+        "gu": "<p>અમારી&nbsp;તાજી&nbsp;ડુંગળી&nbsp;ગુજરાતના&nbsp;સ્થાનિક&nbsp;ખેડૂતો&nbsp;પાસેથી&nbsp;સીધી&nbsp;લાવવામાં&nbsp;આવે&nbsp;છે.</p><p>પ્રાકૃતિક&nbsp;રીતે&nbsp;ઉગાડેલી&nbsp;અને&nbsp;રોજિંદા&nbsp;ઉપયોગ&nbsp;માટે&nbsp;ઉત્તમ.</p><p></p><p>ફાયદા:</p><p>•&nbsp;તાજી&nbsp;અને&nbsp;પ્રાકૃતિક</p><p>•&nbsp;સીધી&nbsp;ખેતરેથી</p><p>•&nbsp;લાંબા&nbsp;સમય&nbsp;સુધી&nbsp;ટકી&nbsp;રહે</p><p>•&nbsp;સ્વાદિષ્ટ&nbsp;અને&nbsp;ગુણવત્તાયુક્ત</p><p></p><p>સ્ટોરેજ:</p><p>ઠંડી&nbsp;અને&nbsp;સૂકી&nbsp;જગ્યાએ&nbsp;રાખો.</p>",
+        "hi": "<p>हमारे&nbsp;ताज़ा&nbsp;प्याज़&nbsp;गुजरात&nbsp;के&nbsp;स्थानीय&nbsp;किसानों&nbsp;से&nbsp;सीधे&nbsp;लाए&nbsp;जाते&nbsp;हैं।</p><p>प्राकृतिक&nbsp;रूप&nbsp;से&nbsp;उगाए&nbsp;गए&nbsp;और&nbsp;रोज़मर्रा&nbsp;के&nbsp;उपयोग&nbsp;के&nbsp;लिए&nbsp;उत्तम।</p><p></p><p>फायदे:</p><p>•&nbsp;ताज़ा&nbsp;और&nbsp;प्राकृतिक</p><p>•&nbsp;सीधे&nbsp;खेतों&nbsp;से</p><p>•&nbsp;लंबे&nbsp;समय&nbsp;तक&nbsp;सुरक्षित</p><p>•&nbsp;स्वाद&nbsp;में&nbsp;बेहतरीन</p><p></p><p>स्टोरेज:</p><p>ठंडी&nbsp;और&nbsp;सूखी&nbsp;जगह&nbsp;पर&nbsp;रखें।</p>"
+      },
+      "isRecommendation": false,
+      "metaDescription": {
+        "en": "Buy fresh farm-grown onions online. Natural, chemical-free vegetables delivered to your home.",
+        "gu": "તાજી ખેતરેથી લાવવામાં આવેલી ડુંગળી ઓનલાઇન ખરીદો. પ્રાકૃતિક અને કેમિકલ મુક્ત શાકભાજી ઘરે ડિલિવરી.",
+        "hi": "ताज़ा खेतों से लाया गया प्याज़ ऑनलाइन खरीदें। प्राकृतिक और केमिकल मुक्त सब्ज़ियां घर तक डिलीवरी।"
+      },
+      "metaTitle": {
+        "en": "Fresh Onion - Natural Farm Vegetables",
+        "gu": "તાજી ડુંગળી – પ્રાકૃતિક ખેતરની શાકભાજી",
+        "hi": "ताज़ा प्याज़ – प्राकृतिक खेत की सब्ज़ियां"
+      },
+      "options": null,
+      "taxRate": 5,
+      "shippingProfileId": null
+    },
+    "farmer": null,
+    "vendor": null
+  }
+]
