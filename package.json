@@ -1,0 +1,47 @@
+{
+  "name": "prakrushi",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "seed": "node prisma/seed.js",
+    "backup": "node prisma/backup.js",
+    "restore": "node prisma/restore.js",
+    "db:reset": "npm run backup && npx prisma migrate reset --force && npm run seed",
+    "postinstall": "prisma generate"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.19.3",
+    "@react-google-maps/api": "^2.20.8",
+    "bcryptjs": "^2.4.3",
+    "framer-motion": "^12.38.0",
+    "jose": "^6.2.2",
+    "jsonwebtoken": "^9.0.3",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^1.7.0",
+    "next": "^16.2.4",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-icons": "^5.6.0",
+    "react-leaflet": "^5.0.0",
+    "react-quill-new": "^3.7.0",
+    "swiper": "^12.1.3",
+    "swr": "^2.4.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "25.5.2",
+    "@types/react": "19.2.14",
+    "babel-plugin-react-compiler": "1.0.0",
+    "docx": "^9.6.1",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.2",
+    "prisma": "^6.19.3",
+    "tailwindcss": "^4"
+  }
+}

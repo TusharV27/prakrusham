@@ -1,0 +1,63 @@
+[
+  {
+    "id": "cmnsktc2i00089l902gvve4wp",
+    "userId": "cmnsktb2t00069l900z1v6tmn",
+    "user": {
+      "id": "cmnsktb2t00069l900z1v6tmn",
+      "email": "abc@gmail.com",
+      "password": "$2a$10$oZvcwJz9foiZ2IcNN0RMIekbFVU8wh1Poc9c8sTu6mndIjXKKfIVm",
+      "role": "CUSTOMER",
+      "phone": "7485964152",
+      "profileImage": null,
+      "createdAt": "2026-04-10T07:20:16.469Z",
+      "updatedAt": "2026-04-10T07:21:12.803Z",
+      "status": "active",
+      "name": {
+        "en": "Bhavatik",
+        "gu": " ભાવિક",
+        "hi": "भवटिक"
+      }
+    },
+    "addresses": [
+      {
+        "id": "cmnskukix000c9l90n7iakdqj",
+        "customerId": "cmnsktc2i00089l902gvve4wp",
+        "type": "Home",
+        "phoneNumber": "7485964152",
+        "pincode": "415263",
+        "isDefault": true,
+        "fullName": {
+          "en": "Rahul Patel",
+          "gu": "રાહુલ પટેલ",
+          "hi": "राहुल पटेल"
+        },
+        "addressLine1": {
+          "en": "102, Shree Krishna Apartment, Near City Light Road",
+          "gu": "102, શ્રી કૃષ્ણ એપાર્ટમેન્ટ, સિટી લાઇટ રોડ પાસે",
+          "hi": "102, श्री कृष्ण अपार्टमेंट, सिटी लाइट रोड के पास"
+        },
+        "addressLine2": {
+          "en": "",
+          "gu": "",
+          "hi": ""
+        },
+        "landmark": {
+          "en": "",
+          "gu": "",
+          "hi": ""
+        },
+        "city": {
+          "en": "Surat",
+          "gu": "સુરત",
+          "hi": "सूरत"
+        },
+        "state": {
+          "en": "Gujarat",
+          "gu": "ગુજરાત",
+          "hi": "गुजरात"
+        }
+      }
+    ],
+    "orders": []
+  }
+]

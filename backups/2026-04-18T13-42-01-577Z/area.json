@@ -1,0 +1,148 @@
+[
+  {
+    "id": "cmnsi9x9n000u9lc4gld2a5dl",
+    "pincode": "380015",
+    "deliveryCharge": 40,
+    "minOrderAmount": 299,
+    "status": "active",
+    "pincodeDataId": null,
+    "createdAt": "2026-04-18T13:04:49.024Z",
+    "updatedAt": "2026-04-18T13:04:49.024Z",
+    "areaName": "Azad Society",
+    "city": "Ahmedabad",
+    "district": "Ahmedabad",
+    "state": "Gujarat"
+  },
+  {
+    "id": "cmntybw98001a9lv4nla8bltb",
+    "pincode": "395006",
+    "deliveryCharge": 10,
+    "minOrderAmount": 300,
+    "status": "active",
+    "pincodeDataId": null,
+    "createdAt": "2026-04-18T13:04:49.028Z",
+    "updatedAt": "2026-04-18T13:04:49.028Z",
+    "areaName": "Kosmada",
+    "city": "Surat",
+    "district": "Surat",
+    "state": "Gujarat"
+  },
+  {
+    "id": "cmnu95sd2000e9lo49ie5lh1h",
+    "pincode": "395007",
+    "deliveryCharge": 5,
+    "minOrderAmount": 200,
+    "status": "active",
+    "pincodeDataId": null,
+    "createdAt": "2026-04-18T13:04:49.031Z",
+    "updatedAt": "2026-04-18T13:04:49.031Z",
+    "areaName": "Abhva",
+    "city": "Surat",
+    "district": "Surat",
+    "state": "Gujarat"
+  },
+  {
+    "id": "cmnuabtp700009ly4a249c49y",
+    "pincode": "394107",
+    "deliveryCharge": 0,
+    "minOrderAmount": 0,
+    "status": "active",
+    "pincodeDataId": null,
+    "createdAt": "2026-04-18T13:04:49.033Z",
+    "updatedAt": "2026-04-18T13:04:49.033Z",
+    "areaName": {
+      "en": "Amroli",
+      "gu": "અમરોલી",
+      "hi": "अमरोली"
+    },
+    "city": {
+      "en": "Surat",
+      "gu": "सूरत",
+      "hi": "सूरत"
+    },
+    "district": {
+      "en": "Surat",
+      "gu": "सूरत",
+      "hi": "सूरत"
+    },
+    "state": {
+      "en": "Gujarat",
+      "gu": "गुजरात",
+      "hi": "गुजरात"
+    }
+  },
+  {
+    "id": "cmnuammiv00009lo8cpn4rppk",
+    "pincode": "394107",
+    "deliveryCharge": 0,
+    "minOrderAmount": 0,
+    "status": "active",
+    "pincodeDataId": null,
+    "createdAt": "2026-04-18T13:04:49.036Z",
+    "updatedAt": "2026-04-18T13:04:49.036Z",
+    "areaName": {
+      "en": "Amroli",
+      "gu": "અમરોલી",
+      "hi": "अमरोली"
+    },
+    "city": {
+      "en": "Surat",
+      "gu": "सूरत",
+      "hi": "सूरत"
+    },
+    "district": {
+      "en": "Surat",
+      "gu": "सूरत",
+      "hi": "सूरत"
+    },
+    "state": {
+      "en": "Gujarat",
+      "gu": "गुजरात",
+      "hi": "गुजरात"
+    }
+  },
+  {
+    "id": "cmnuaofox00009l0swsncpgzf",
+    "pincode": "395004",
+    "deliveryCharge": 0,
+    "minOrderAmount": 0,
+    "status": "active",
+    "pincodeDataId": null,
+    "createdAt": "2026-04-18T13:04:49.039Z",
+    "updatedAt": "2026-04-18T13:04:49.039Z",
+    "areaName": {
+      "en": "Amroli",
+      "gu": "અમરોલી",
+      "hi": "अमરોલી"
+    },
+    "city": {
+      "en": "Surat",
+      "gu": "સૂરત",
+      "hi": "सूरत"
+    },
+    "district": {
+      "en": "Surat",
+      "gu": "સૂરત",
+      "hi": "सूरत"
+    },
+    "state": {
+      "en": "Gujarat",
+      "gu": "ગુજરાત",
+      "hi": "गुजरात"
+    }
+  },
+  {
+    "id": "cmnwp3c2f000n9le4d2z8s4tg",
+    "pincode": "394101",
+    "deliveryCharge": 0,
+    "minOrderAmount": 0,
+    "status": "inactive",
+    "pincodeDataId": null,
+    "createdAt": "2026-04-18T13:04:49.041Z",
+    "updatedAt": "2026-04-18T13:04:49.041Z",
+    "areaName": "Mota Varachha",
+    "city": "Surat",
+    "district": "Surat",
+    "state": "Gujarat"
+  }
+]

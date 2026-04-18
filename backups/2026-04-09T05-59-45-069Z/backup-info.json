@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-04-09T05:59:45.073Z",
+  "tables": [
+    "Customer",
+    "Address",
+    "PincodeData",
+    "Offer",
+    "Review",
+    "Order"
+  ],
+  "recordCounts": {
+    "Customer": 1,
+    "Address": 0,
+    "PincodeData": 0,
+    "Offer": 0,
+    "Review": 0,
+    "Order": 0
+  }
+}

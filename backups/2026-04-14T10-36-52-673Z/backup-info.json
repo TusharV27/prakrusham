@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-04-14T10:36:52.677Z",
+  "tables": [
+    "User",
+    "Customer",
+    "Address",
+    "Farmer",
+    "Vendor",
+    "Category",
+    "Product",
+    "ProductVariant",
+    "Image",
+    "Warehouse",
+    "InventoryItem",
+    "Area",
+    "PincodeData",
+    "Offer",
+    "Event",
+    "Review",
+    "Order",
+    "Translation"
+  ],
+  "recordCounts": {
+    "User": 6,
+    "Customer": 3,
+    "Address": 3,
+    "Farmer": 2,
+    "Vendor": 2,
+    "Category": 2,
+    "Product": 16,
+    "ProductVariant": 37,
+    "Image": 22,
+    "Warehouse": 1,
+    "InventoryItem": 21,
+    "Area": 7,
+    "PincodeData": 0,
+    "Offer": 3,
+    "Event": 1,
+    "Review": 3,
+    "Order": 0,
+    "Translation": 0
+  }
+}

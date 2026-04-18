@@ -1,0 +1,65 @@
+[
+  {
+    "id": "cmnu02n40000d9llsaslethk9",
+    "discountType": "PERCENTAGE",
+    "value": 15,
+    "startTime": "2026-04-11T00:00:00.000Z",
+    "endTime": "2026-04-30T00:00:00.000Z",
+    "isActive": true,
+    "name": {
+      "en": "FRUITS COMBO",
+      "gu": "ફળોનો કોમ્બો",
+      "hi": "फलों का कॉम्बो"
+    },
+    "description": {
+      "en": "Get fresh vegetables at discounted prices for summer.",
+      "gu": "ઉનાળામાં તાજી શાકભાજી પર ખાસ ડિસ્કાઉન્ટ.",
+      "hi": "गर्मियों के लिए ताज़ी सब्जियों पर विशेष छूट।"
+    },
+    "showInHero": false,
+    "slug": "offer-lethk9-0",
+    "products": []
+  },
+  {
+    "id": "cmnsutfxh000h9lw4g4q4r3a9",
+    "discountType": "PERCENTAGE",
+    "value": 20,
+    "startTime": "2026-04-11T00:00:00.000Z",
+    "endTime": "2026-04-20T00:00:00.000Z",
+    "isActive": true,
+    "name": {
+      "en": "VEGETABLE COMBO",
+      "gu": "શાકભાજીનો કોમ્બો",
+      "hi": "सब्जी कॉम्बो"
+    },
+    "description": {
+      "en": "Get fresh vegetables at discounted prices for summer.",
+      "gu": "ઉનાળામાં તાજી શાકભાજી પર ખાસ ડિસ્કાઉન્ટ.",
+      "hi": "गर्मियों के लिए ताज़ी सब्जियों पर विशेष छूट।"
+    },
+    "showInHero": false,
+    "slug": "offer-q4r3a9-1",
+    "products": []
+  },
+  {
+    "id": "cmnwrz3xl001b9leowpobnl0k",
+    "discountType": "PERCENTAGE",
+    "value": 10,
+    "startTime": "2026-04-13T00:00:00.000Z",
+    "endTime": "2026-04-20T00:00:00.000Z",
+    "isActive": true,
+    "name": {
+      "en": "VEGEE COMBO",
+      "gu": " વેજી કોમ્બો",
+      "hi": " वेजी कॉम्बो"
+    },
+    "description": {
+      "en": "Fresh and best Vegee combo",
+      "gu": "તાજા અને શ્રેષ્ઠ વેજી કોમ્બો",
+      "hi": "ताज़ा और बेहतरीन सब्ज़ी कॉम्बो"
+    },
+    "showInHero": false,
+    "slug": "vegee-combo",
+    "products": []
+  }
+]

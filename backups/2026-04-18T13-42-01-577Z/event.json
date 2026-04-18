@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cmnu2w45h000t9lls2xxeisv2",
+    "date": "2026-06-11T12:00:00.000Z",
+    "createdAt": "2026-04-18T13:04:48.919Z",
+    "title": {
+      "en": "Prakrutik Vegetable Expo 2026",
+      "gu": "પ્રાકૃતિક વેજિટેબલ એક્સ્પો 2026",
+      "hi": "प्राकृतिक वेजिटेबल एक्सपो 2026"
+    },
+    "shortDesc": {
+      "en": "Explore fresh organic vegetables and farming techniques",
+      "gu": "તાજી ઓર્ગેનિક શાકભાજી અને ખેતીની ટેક્નિક્સ શોધો",
+      "hi": "ताज़ी जैविक सब्ज़ियों और खेती की तकनीकों का अन्वेषण करें"
+    },
+    "description": {
+      "en": "This event showcases a wide variety of organic vegetables, modern farming methods, and sustainable agriculture practices. Visitors can interact with farmers and buy fresh produce",
+      "gu": "આ કાર્યક્રમમાં વિવિધ પ્રકારની ઓર્ગેનિક શાકભાજી, આધુનિક ખેતી પદ્ધતિઓ અને ટકાઉ કૃષિ પ્રથાઓનું પ્રદર્શન કરવામાં આવે છે. મુલાકાતીઓ ખેડૂતો સાથે વાતચીત કરી શકે છે અને તાજી ઉપજ ખરીદી શકે છે।",
+      "hi": "यह कार्यक्रम विभिन्न प्रकार की जैविक सब्ज़ियों, आधुनिक खेती के तरीकों और टिकाऊ कृषि पद्धतियों को प्रदर्शित करता है। आगंतुक किसानों से बातचीत कर सकते हैं और ताज़ा उपज खरीद सकते हैं।"
+    },
+    "location": {
+      "en": "Surat Agricultural Ground",
+      "gu": "સુરત એગ્રિકલ્ચર ગ્રાઉન્ડ",
+      "hi": "सूरत एग्रीकल्चर ग्राउंड"
+    },
+    "slug": "prakrutik-vegetable"
+  }
+]

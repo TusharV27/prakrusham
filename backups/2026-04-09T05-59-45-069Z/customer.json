@@ -1,0 +1,24 @@
+[
+  {
+    "id": "cmnpxu5il00009lasatbm461y",
+    "userId": "cmnohv23700009l28wgul7ykk",
+    "user": {
+      "id": "cmnohv23700009l28wgul7ykk",
+      "email": "admin@prakrushi.com",
+      "password": "$2a$10$inum4RAEA2eSBaFj.TpsQe.4PqcdAO6M6qTFy07cDgSCvNDrj5tXe",
+      "role": "ADMIN",
+      "name": {
+        "en": "Prakrushi Admin",
+        "gu": "પ્રકૃતિ એડમિન",
+        "hi": "प्रकृति एडमिन"
+      },
+      "phone": null,
+      "status": "active",
+      "profileImage": null,
+      "createdAt": "2026-04-08T04:11:39.753Z",
+      "updatedAt": "2026-04-08T04:11:39.753Z"
+    },
+    "addresses": [],
+    "orders": []
+  }
+]

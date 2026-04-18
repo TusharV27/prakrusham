@@ -1,0 +1,19 @@
+{
+  "customerId": "cmntxor2300019lv4nramdskr",
+  "customerName": "Nimaxee Radadiya",
+  "customerPhone": "9824878118",
+  "items": [
+    {
+      "productId": "cmnsr7xp100089leoa2m5g3s2",
+      "quantity": 1,
+      "price": 30
+    }
+  ],
+  "shippingAddress": "nilam nager shyam dham chowk nana varachha surat, Surat, Gujarat",
+  "pincode": "394107",
+  "subtotal": 30,
+  "taxAmount": 1.5,
+  "shippingCharge": 30,
+  "shippingMethodName": "Standard Shipping",
+  "total": 60
+}
